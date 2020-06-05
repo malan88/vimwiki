@@ -1,3 +1,4 @@
 == Notes ==
 
 * [[notes/Baudrillard.md|Baudrillard]]
+* [[notes/w2s.md|Glendale W2's]]

@@ -1,6 +1,8 @@
 = vimwiki db =
-    * [[tasks]]
+    * [[books.csv|books]]
     * [[ideas]]
-    * [[passages]]
     * [[notes]]
+    * [[passages]]
+    * [[reference]]
     * [[reviews]]
+    * [[tasks]]
