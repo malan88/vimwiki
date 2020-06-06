@@ -1,8 +1,20 @@
 = vimwiki db =
-    * [[books.csv|books]]
-    * [[ideas]]
-    * [[notes]]
-    * [[passages]]
-    * [[reference]]
-    * [[reviews]]
-    * [[tasks]]
+
+    == noted stuff ==
+
+        * [[ideas]]
+        * [[notes]]
+
+    == recorded stuff ==
+
+        * [[books.csv|books]]
+        * [[passages]]
+        * [[reference]]
+
+    == written stuff ==
+
+        * [[reviews]]
+
+    == todo ==
+
+        * [[tasks]]
