@@ -3,17 +3,17 @@
     == noted stuff ==
     
         * [[ideas]]
-        * [[notes]]
+        * [[notes/index.wiki|notes]]
 
     == recorded stuff ==
 
         * [[books.csv|books]]
-        * [[passages]]
-        * [[reference]]
+        * [[passages/index.wiki|passages]]
+        * [[reference/index.wiki|reference]]
 
     == written stuff ==
     
-        * [[reviews]]
+        * [[reviews/index.wiki|reviews]]
 
     == todo ==
 
