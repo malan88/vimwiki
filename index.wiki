@@ -1,7 +1,7 @@
 = vimwiki db =
 
     == noted stuff ==
-
+    
         * [[ideas]]
         * [[notes]]
 
@@ -12,7 +12,7 @@
         * [[reference]]
 
     == written stuff ==
-
+    
         * [[reviews]]
 
     == todo ==
