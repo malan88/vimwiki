@@ -2,3 +2,4 @@
 * new_beginnings.md
 * foss.md
 * [[vote.py.md]]
+* [[git-secrets]]
