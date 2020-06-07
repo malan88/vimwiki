@@ -16,3 +16,6 @@
 == Yak Shaving tasks | project:yakshaving ==
 * [X] alias for file creation with date  #6af83f7a
 * [ ] leader command for on and off of url obscuration in vim  #1409cc81
+
+== Family tasks | project:family ==
+* [ ] Call Spectrum, get new router  #c56cca36
