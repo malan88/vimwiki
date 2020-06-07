@@ -2,18 +2,17 @@
 * [X] Investigate git and taskwarrior integration with vimwiki  #8766116b
 * [X] Finish vimwiki tutorial  #100694da
 * [ ] Write Twilio script to bug someone to register to vote  #bb63fffc
-* [ ] publish vimwiki as html to netlify  #f6e4aa1b
 
 == Job tasks | project:job ==
-* [ ] Finish blog.standingwater.io  #4b4d28dd
+* [X] Finish blog.standingwater.io  #4b4d28dd
     * [X] Netlify it/set up domain/link up  #df741cc5
     * [X] Finish templates/blog slugs  #ac7521bb
     * [X] Theme the damn thing  #107c45db
     * [X] Write a first post  #7cafdcdd
-    * [ ] Write a second post (FOSS as High Culture)  #e40ae679
+    * [X] Write a second post (FOSS as High Culture)  #e40ae679
 * [ ] Complete more hackerrank  #5322eb0e
 * [ ] complete more kaggle  #10ae331c
 
 == Yak Shaving tasks | project:yakshaving ==
-* [ ] alias for file creation with date  #6af83f7a
+* [X] alias for file creation with date  #6af83f7a
 * [ ] leader command for on and off of url obscuration in vim  #1409cc81
