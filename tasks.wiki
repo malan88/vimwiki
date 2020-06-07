@@ -2,6 +2,7 @@
 * [X] Investigate git and taskwarrior integration with vimwiki  #8766116b
 * [X] Finish vimwiki tutorial  #100694da
 * [ ] Write Twilio script to bug someone to register to vote  #bb63fffc
+* [ ] Try out bspwm  #e9150267
 
 == Job tasks | project:job ==
 * [X] Finish blog.standingwater.io  #4b4d28dd
