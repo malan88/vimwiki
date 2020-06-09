@@ -4,18 +4,18 @@
 * [ ] Try out bspwm  #e9150267
 * [ ] publish gpg keys  #7b2d31c8
 * [ ] Write Twilio script to bug someone to register to vote  #bb63fffc
-    * [ ] host it on AWS however  #349f034e
+    * [X] host it on AWS however  #349f034e
+    * [X] investigate scheduling dynamically  #2f0df870
+    * [X] investigate daemonization  #39ab7553
     * [ ] write a blog about it  #54d394bb
     * [ ] consider invite only web service via heroku or aws  #283d9d23
-    * [ ] investigate scheduling dynamically  #2f0df870
     * [ ] finish writing the script  #000ab110
-    * [ ] investigate daemonization  #39ab7553
 
 == Vote.py | project:personal.vote ==
-* [ ] investigate scheduling dynamically  #2f0df870
-* [ ] investigate daemonization  #39ab7553
+* [X] host it on AWS however  #349f034e
+* [X] investigate scheduling dynamically  #2f0df870
+* [X] investigate daemonization  #39ab7553
 * [ ] finish writing the script  #000ab110
-* [ ] host it on AWS however  #349f034e
 * [ ] consider invite only web service via heroku or aws  #283d9d23
 * [ ] write a blog about it  #54d394bb
 
@@ -29,10 +29,12 @@
     * [X] Write a second post (FOSS as High Culture)  #e40ae679
 * [X] Complete more hackerrank  #5322eb0e
 * [ ] Do the next lesson on kaggle  #10ae331c
+* [ ] apply to bunkr.life !!!  #57446c6a
 
 == Yak Shaving tasks | project:yakshaving ==
 * [X] alias for file creation with date  #6af83f7a
 * [X] leader command for on and off of url obscuration in vim  #1409cc81
+* [ ] keybinding for scrot  #8c426dac
 
 == Family tasks | project:family ==
 * [ ] Call Spectrum, get new router  #c56cca36
