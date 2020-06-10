@@ -7,17 +7,19 @@
     * [X] host it on AWS however  #349f034e
     * [X] investigate scheduling dynamically  #2f0df870
     * [X] investigate daemonization  #39ab7553
+    * [X] finish writing the script  #000ab110
+    * [X] consider invite only web service via heroku or aws  #283d9d23
     * [ ] write a blog about it  #54d394bb
-    * [ ] consider invite only web service via heroku or aws  #283d9d23
-    * [ ] finish writing the script  #000ab110
+    * [ ] Register twilio number  #54591a86
 
 == Vote.py | project:personal.vote ==
 * [X] host it on AWS however  #349f034e
 * [X] investigate scheduling dynamically  #2f0df870
 * [X] investigate daemonization  #39ab7553
-* [ ] finish writing the script  #000ab110
-* [ ] consider invite only web service via heroku or aws  #283d9d23
+* [X] finish writing the script  #000ab110
+* [X] consider invite only web service via heroku or aws  #283d9d23
 * [ ] write a blog about it  #54d394bb
+* [ ] Register twilio number  #54591a86
 
 
 == Job tasks | project:job ==
