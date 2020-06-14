@@ -1,7 +1,5 @@
 # Sun Nov 25 14:54:29 EST 2018
-----------------------------
 ## Alejandro González Iñárritu’s _The Revenant_
-============================================
 
 I don’t understand why Mexican directors are so incredibly good, but it is a
 fact. I had never seen an Iñárritu film before this, but now I feel a need to

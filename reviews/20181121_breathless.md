@@ -1,7 +1,5 @@
 # Wed Nov 21 17:46:29 EST 2018
-----------------------------
 ## Jean Luc Godard's _A Bout de Souffle_
-=====================================
 
 I am going to begin generally taking notes when I watch films.
 

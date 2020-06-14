@@ -1,9 +1,6 @@
 # Sun Nov 11 07:24:33 EST 2018
-----------------------------
 ## Andrei Tarkovsky’s _Андрей Рублёв_
-==================================
-## 205 minute version
-------------------
+### 205 minute version
 
 I am hereby beginning a running commentary on the 205 minute version of _Andrei
 Rublev_.
@@ -24,8 +21,7 @@ liked that.
 Now I will begin. This will be a list of observations. I will use numbers for
 easy reference.
 
-### Prologue
---------
+## Prologue
 
 1. The credit roll is black; it is against a white marble/granite background in
    the 185 minute version. This is rather insignificant, but it was a change
@@ -70,9 +66,7 @@ by someone who has not known suffering. As art is a reflection of nature and
 life, it  must contain something of the suffering that all life has.
 
 ### The Jester
-----------
-### Summer 1400
------------
+#### Summer 1400
 
 >“I passed that birch every day and never noticed it.”
 
@@ -163,9 +157,7 @@ evil. Kirill’s statement in the barn “God sent priests, but the devil sent
 jesters” couldn’t have been more blatant on a second viewing.
 
 ### Theophanes the Greek
---------------------
-### Summer-Winter-Spring-Summer 1405-1406
--------------------------------------
+#### Summer-Winter-Spring-Summer 1405-1406
 
 It’s fascinating that Kirill is the one whose face we see walking through town
 and glancing toward the innocent man condemned to torture and death in the
@@ -373,9 +365,7 @@ speckles. There’s mirror to it. An eternal recurrence, as Theophanes notes. Fo
 is being spiritually elevated.
 
 ### The Holiday
------------
-### Spring 1408
------------
+#### Spring 1408
 
 The score to this episode is very discordant and eerie. It plays to the
 unearthliness of the Pagans. They fascinate. They remind me of Picts. A people
@@ -446,9 +436,7 @@ wear on the religious.
 It is shattered eventually.
 
 ### The Last Judgement
-------------------
-### Summer 1408
------------
+#### Summer 1408
 
 The acting of many of these peasant characters is fascinating. The way they
 move, talk, and look reminds me so heavily of people in prison. It’s nothing
@@ -546,14 +534,10 @@ state. This film seems to praise maturity and detest ignorant innocence, except
 in the form of children? And pagans? I’m at a loss on Durochka’s lip sore.
 
 ## The Passion According to Andrei
-===============================
 ## Part II
-=======
 
 ### The Raid
---------
-### Autumn 1408
------------
+#### Autumn 1408
 
 The most exposition of the rivalry between the Grand Prince and the Prince is
 here.
@@ -739,9 +723,7 @@ borne of suffering, that evil is inextricable from life. It’s something I’ve
 often reflected on.
 
 ### The Charity
------------
-### Winter 1412
------------
+#### Winter 1412
 
 I don’t remember this sequence, and it isn’t mentioned in the Wikipedia.
 
@@ -879,9 +861,7 @@ does the name Durochka come from? Is she actually a holy fool or just a
 simpleton? What is the deal!?
 
 ### The Bell
---------
-### Spring-Summer-Autumn-Winter-Spring 1423-1424
---------------------------------------------
+#### Spring-Summer-Autumn-Winter-Spring 1423-1424
 
 Already with the opening of The Bell do we have a bird symbol and a horse
 symbol. There is a rooster in the window next to Boriska. As I’ve already said,

@@ -1,7 +1,5 @@
 # Sun Oct 28 09:00:19 EDT 2018
-----------------------------
 ## Jean Cocteau’s _La Belle et la Bête_
-====================================
 
 This film was a sumptious exercise in avant-garde art seeking to suspend all
 political aspirations. It’s hard not to see it as anything _but_ once you hear
@@ -45,7 +43,7 @@ The next shot after that is Belle _literally gliding_ through a hallway will
 billowing white drapery. It is absolutely meant to convey the angelic nature of
 Belle. Indeed, moreso than the dialogue or story, the _imagery_ is what makes
 Belle angelic and endearing. I honestly found much of what she said to the Beast
-early on to be rather cruel. In 2018 most of us--if not our President--make a
+early on to be rather cruel. In 2018 most of us—if not our President—make a
 great deal of effort not to be needlessly cruel to those with personal
 deformities. We try very hard to interact with that person as though they were
 utterly normal and we never even noticed that they have all this fur all over

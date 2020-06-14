@@ -1,11 +1,9 @@
 # Sun Mar 10 14:53:42 EDT 2019
-----------------------------
 
 Today I bring a double feature review (followed by a third review from
 yesterday).
 
 ## David Mackenzie’s _Hell or High Water_
---------------------------------------
 
 I hate Texas. I hate the South as well. They are regions that hold nothing but
 backwards thinking and such incredibly heavy historical moral baggage that we

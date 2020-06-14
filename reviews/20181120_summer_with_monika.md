@@ -1,7 +1,5 @@
 # Wed Nov 21 09:40:44 EST 2018
-----------------------------
 ## Ingmar Bergman’s _Sommaren med Monika_
-======================================
 
 One of the very first things I noticed about this film, that is barely discussed
 in the literature about the film, is it is a strong statement about _class_. In

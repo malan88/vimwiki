@@ -1,7 +1,5 @@
 # Tue Nov 20 17:25:28 EST 2018
-----------------------------
 ## Ingmar Bergman’s _Smultronstället_
-==================================
 
 At 7:02 seconds I have decided to begin a narration.
 

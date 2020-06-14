@@ -1,7 +1,5 @@
 # Mon Nov 19 16:23:18 EST 2018
-----------------------------
 ## Marcel Carné’s _Les Enfants du Paradis_
-=======================================
 
 At 3 hours and 10 minutes, this film was longer than I expected. The French
 answer to _Gone with the Wind_, as it was styled, it is similar to that American

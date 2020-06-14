@@ -1,7 +1,5 @@
 # Sat Nov 24 16:33:05 EST 2018
-----------------------------
 ## Nicolas Winding Refn’s _The Neon Demon_
-=======================================
 
 Wow. Eros and Thanatos, once again.
 

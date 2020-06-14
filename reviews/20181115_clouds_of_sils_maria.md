@@ -1,7 +1,5 @@
 # Thu Nov 15 20:39:41 EST 2018
-----------------------------
 ## Olivier Assayas’ _Clouds of Sils Maria_
-=======================================
 
 I am a little over half way through this film and felt the need to make some
 comments immediately so that I may not forget them.
@@ -68,7 +66,7 @@ transpires, who exposes more of their heart, etc. The same dynamic is shown
 again and again in their discussion of the film-within-the-film, their reading
 of the film-within-the-film, etc.
 
----
+—-
 
 On Fri Nov 16 08:03:22 EST 2018 I’m going to finish making some comments.
 

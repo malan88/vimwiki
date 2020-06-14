@@ -1,7 +1,5 @@
 # Sun Dec  9 15:28:39 EST 2018
-----------------------------
 ## Robert Bresson’s _Un condamné à mort s’est échappé ou Le vent souffle où il veut_
-=================================================================================
 
 Wow. I understand Bresson now.
 

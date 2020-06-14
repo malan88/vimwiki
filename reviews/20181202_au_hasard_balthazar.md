@@ -1,7 +1,5 @@
 # Fri Dec  7 11:27:51 EST 2018
-----------------------------
 ## Robert Bresson’s _Au Hasard Balthazar_
---------------------------------------
 
 This is another movie, just like Ozu’s Tokyo Story, that I liked, that was
 clearly quite good, that is laden with extremely rigorous technique and style,

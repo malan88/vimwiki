@@ -1,7 +1,5 @@
 # Sun Nov 25 07:56:26 EST 2018
-----------------------------
 ## Andrew Byrne's _In Darkness_
-============================
 
 Wow. You know what, I thought this was a pretty underrated film from about half
 way through, but at the end, I'm stunned by how underrated it is for its

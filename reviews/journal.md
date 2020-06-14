@@ -1,5 +1,4 @@
 ## Thu Oct 25 10:28:43 EDT 2018
-----------------------------
 
 I have recently begun a reinvestigation of Histoire(s) du cinéma (the actual
 study, not the film by Godard). I have just been throwing myself back into
@@ -18,7 +17,7 @@ I’d be better off ordering something I’ve never seen. I got the first four f
 listed below.  All excellent. (I picked _Mishima_ because I’d seen it years ago
 at a Philosophy grad student’s house and wanted to watch it again.) From there I
 purchases Kubrick’s _Barry Lyndon_ because I saw some interesting discussions of
-it’s cinematography on Youtube. Then _Solaris_ because--you know, at this point,
+it’s cinematography on Youtube. Then _Solaris_ because—you know, at this point,
 I don’t know how I pick out movies. But I’m right now ordering what I’m most
 itching to watch. I have especially been seeking out Criterion Collection worthy
 movies. Over the past several weeks I have watched (not in actual order, except
@@ -26,10 +25,10 @@ within source):
 
 1. Akira Kurosawa’s _Throne of Blood_ from Criterion
     - Incredible adaptation of _Macbeth_; probably the most interesting
-      performance of Toshiro Mifune I’ve seen yet. Some shots--the swaying trees
+      performance of Toshiro Mifune I’ve seen yet. Some shots—the swaying trees
       as Spider’s Web Forest comes to Spider’s Web Castle, Lady Macbeth
       shuffling out of a room, even the eerieness of the witch in the
-      beginning--are absolutely haunting. Perhaps most fascinating to me was
+      beginning—are absolutely haunting. Perhaps most fascinating to me was
       seeing the genesis of the beautiful fog shots in the beginning of Justin
       Kurzel’s _Macbeth_, which I regard as better than the critics seem to
       (especially _The New Yorker_).
@@ -192,7 +191,6 @@ on the criterioncollection Youtube channel.
 
 
 ## Sun Oct 28 08:49:18 EDT 2018
-----------------------------
 
 I found two good Youtube channels: criswell and Art Regard. Both are concerned
 with art and cinema.
@@ -201,7 +199,6 @@ I watched Jean Cocteau’s _La Belle et La Bête_’s, reviewing now.
 
 
 ## Wed Oct 31 16:42:26 EDT 2018
-----------------------------
 
 Since last README entry I have watched and reviewed _Orpheus_ and am two thirds
 of the way through _Stalker_. I will be finishing _Stalker_ tonight and
@@ -239,7 +236,6 @@ Will keep this journal posted. Renaming it to journal.md now.
 
 
 ## Sat Nov 10 22:17:10 EST 2018
-----------------------------
 
 Clearly, I’ve watched _Andrei Rublev_. I am about to press play (it’s far to
 late in the night to finish it) the 205 minute version.
@@ -261,7 +257,6 @@ was hot as hell.
 
 
 ## Tue Nov 13 08:01:00 EST 2018
-----------------------------
 
 While I wait for my 39-film Ingmar Bergman collection (I’m so excited!) I
 decided to start blowing through all the films in my Netflix, Hulu, Amazon
@@ -269,7 +264,6 @@ Prime, and HBO Go watchlists. First up is Kogonada’s _Columbus_.
 
 
 ## Fri Nov 16 09:16:50 EST 2018
-----------------------------
 
 So, watched another Assayas film, and reviewed it. I started watching Scorcese’s
 _Silence_ before that but had to give it up because the film needs an LED
@@ -374,7 +368,6 @@ referenced often by filmmakers who interest me. And their influence seems
 unfathomably interesting.
 
 ## Wed Nov 21 10:12:36 EST 2018
-----------------------------
 
 Alright, I got all the Bergman films. I also just got _Breathless_.
 
@@ -386,7 +379,6 @@ inclined to stick more to Criterion's selections. As such, I will continue to
 explore these summer films.
 
 ## Sun Nov 25 15:17:51 EST 2018
-----------------------------
 
 I ordered Ozu's _Tokyo Story_. Will watch tomorrow. I think I'm going to start
 _Scenes From a Marriage_ this afternoon. It seems not to be restored like some
@@ -401,7 +393,6 @@ Alejandro González Iñárritu's _The Revenant_. Also, Andrew Byrne's _In
 Darkness_. A lot of films in a couple of days.
 
 ## Wed Nov 28 18:30:11 EST 2018
-----------------------------
 
 I watched _Tokyo Story_ and reviewed it. I just purchased 3 Bresson films: _Au
 Hasard Balthasar_, _A Man Escaped_, and _Pickpocket_. I actually feel like

@@ -1,7 +1,5 @@
 # Sun Dec  9 20:39:36 EST 2018
-----------------------------
 ## Robert Bresson's _Pickpocket_
-===========================
 
 I am beginning to _get_ Bresson. I want to get _L'Argent_, but I am starting to
 appreciate how profoundly literary this director is.
