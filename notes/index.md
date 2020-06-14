@@ -1,4 +1,4 @@
 # Notes
-    - [[Baudrillard]]
-    - [[w2s]]
-    - [[gatsby]]
+    - [Baudrillard](Baudrillard.md)
+    - [w2s](w2s.md)
+    - [gatsby](gatsby.md)

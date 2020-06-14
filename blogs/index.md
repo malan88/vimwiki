@@ -2,5 +2,5 @@
 
   - new_beginnings.md
   - foss.md
-  - [vote.py](vote)
-  - [git-secrets](git-secrets)
+  - [vote.py](vote.md)
+  - [git-secrets](git-secrets.md)

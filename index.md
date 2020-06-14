@@ -1,11 +1,11 @@
 # noted stuff
 
-  - [ideas](ideas)
+  - [ideas](ideas.md)
   - [notes](notes/index.md)
 
 # recorded stuff
 
-  - [books](books)
+  - [books](books.md)
   - [passages](passages/index.md)
   - [reference](reference/index.md)
 
@@ -16,4 +16,4 @@
 
 # todo
 
-  - [tasks](tasks)
+  - [tasks](tasks.md)

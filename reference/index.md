@@ -1,4 +1,4 @@
 ## Reference
 
-  - [[unicode]]
-  - [[htmlentities]]
+  - [unicode](unicode.md)
+  - [htmlentities](htmlentities.md)
