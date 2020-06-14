@@ -13,6 +13,7 @@
   - [ ] Try out bspwm
   - [ ] publish gpg keys
   - [ ] pull request for bash function for vimwiki
+  - [ ] issue on vimwiki for the block quote syntax issue
 
 ## Vote.py
 
