@@ -1,6 +1,6 @@
-Wed Nov 21 09:40:44 EST 2018
+# Wed Nov 21 09:40:44 EST 2018
 ----------------------------
-Ingmar Bergman’s _Sommaren med Monika_
+## Ingmar Bergman’s _Sommaren med Monika_
 ======================================
 
 One of the very first things I noticed about this film, that is barely discussed
@@ -77,4 +77,4 @@ well-meaning liberal sentiments of critics that it’s rarely discussed.
 
 I will not criticize Bergman’s elitism. Such a dynamic truly exists. It is
 practically an Italian neo-realist film. But it’s not a happy film, or one that
-liberals should ever show conservatives.
+[liberals](liberals) should ever show conservatives.

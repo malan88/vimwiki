@@ -1,8 +1,8 @@
-Thu Nov  8 08:29:03 EST 2018
+# Thu Nov  8 08:29:03 EST 2018
 ----------------------------
-Andrei Tarkovsky’s _Андрей Рублёв_
+## Andrei Tarkovsky’s _Андрей Рублёв_
 ==================================
-185 minute version
+## 185 minute version
 ------------------
 
 This is the third Tarkovsky film I’ve seen now, and I must conclude, after some
@@ -49,7 +49,7 @@ Since the film is so multi-faceted and resists easy analysis and summary, I will
 discuss each of the seven episodes in course (please note, seven, not three or
 five).
 
-Prologue
+### Prologue
 --------
 
 The beginning of the film, the prologue, was one of the most entrancing, perhaps
@@ -76,7 +76,7 @@ crashes, the horse “gets back up.”
 Already we seem to be dealing with similar symbolism to _Stalker_: unconsciously
 created and unconsciously moving. It resists easy analysis.
 
-I. The Jester (Summer 1400)
+### I. The Jester (Summer 1400)
 ---------------------------
 
 We meet Andrei and his two fellow monk-artists: Danil (Daniil Chorny according
@@ -150,7 +150,7 @@ across the water, we see a visual rhyme: the soldiers carrying the jester are
 walking in exactly the same way, in exactly the same direction, parallel to our
 characters. This seems to be a pretty explicit comparison.
 
-II. Theophanes the Greek (Summer-Winter-Spring-Summer 1405-1406)
+### II. Theophanes the Greek (Summer-Winter-Spring-Summer 1405-1406)
 ----------------------------------------------------------------
 
 The episode opens with a town square where a man is professing his innocence
@@ -191,7 +191,7 @@ and Theophanes talk past each other. Theophanes expresses cynical views of
 people, ignorance, and sin; Andrei is clearly idealistic. Then we have a Passion
 reenactment where we get the real Andrei Rublev’s views on the crucifixion.
 
-Interlude: Bird Symbolism
+### Interlude: Bird Symbolism
 -------------------------
 
 The swan is clearly significant. An interesting symbol analysis from
@@ -226,14 +226,14 @@ Therefore, the bird images afwriting details are:
 There are other instances, I may detail them upon revisting the film (in it’s
 205 minute version) this weekend.
 
-III. The Holiday (1408)
+### III. The Holiday (1408)
 -----------------------
 
 This episode covers a pagan ritual that Andrei stumbles on. Of all the episodes,
 I found the _least_ symbol, save the interesting juxtaposition of Andrei’s faith
 with the pagans’.
 
-IV. The Last Judgement (Summer 1408)
+### IV. The Last Judgement (Summer 1408)
 ------------------------------------
 
 This episode is extraordinarily brutal—perhaps not as brutal as the next
@@ -262,7 +262,7 @@ This scene also introduces us to Durochka, the holy fool played by Tarkovsky’s
 wife. I still cannot remember her name every being said on screen, but the
 Wikipedia refers extensively to her.
 
-V. The Raid (Autumn 1408)
+### V. The Raid (Autumn 1408)
 -------------------------
 
 This is the cinematic heart of the film. The climax of the Grand Prince and the
@@ -303,7 +303,7 @@ first item reinforces multiple themes from the film.
        all this violence, and having killed a man himself (despite for good
        cause) he is cynical and Theophanes is encouraging him to be idealistic.
 
-VI. Silence (Winter 1412)
+### VI. Silence (Winter 1412)
 -------------------------
 
 Andrei has taken a vow of silence and refuses to paint. He has brought Durochka
@@ -327,7 +327,7 @@ mind for her_. But the ending in the next episode to the Durochka arc is
 fascinating in light of this precise dichotomy: Andrei saves her from Tatar-rape
 only for her to go willingly to a Tatar.
 
-VII. The Bell (Spring-Summer-Winter-Spring 1423-1424)
+### VII. The Bell (Spring-Summer-Winter-Spring 1423-1424)
 -----------------------------------------------------
 
 The Bell is perhaps the most beautiful episode of the entire film. Some people

@@ -1,6 +1,6 @@
-Fri Dec  7 11:27:51 EST 2018
+# Fri Dec  7 11:27:51 EST 2018
 ----------------------------
-Robert Bresson’s _Au Hasard Balthazar_
+## Robert Bresson’s _Au Hasard Balthazar_
 --------------------------------------
 
 This is another movie, just like Ozu’s Tokyo Story, that I liked, that was

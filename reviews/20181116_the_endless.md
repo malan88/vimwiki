@@ -1,6 +1,6 @@
-Sat Nov 17 16:15:21 EST 2018
+# Sat Nov 17 16:15:21 EST 2018
 ----------------------------
-Justin Benson and Aaron Moorhead's _The Endless_
+## Justin Benson and Aaron Moorhead's _The Endless_
 ================================================
 
 Okay, before I begin, I had better declare at the outset that I knew one of the

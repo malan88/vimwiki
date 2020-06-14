@@ -1,0 +1,11 @@
+  - `U+2014` em dash —
+  - `U+2018` open single quote ‘
+  - `U+2019` close single quote ’
+  - `U+201C` open double quote ”
+  - `U+201D` close double quote ”
+  - `U+00A7` Section Sign §
+  - `U+00E9` small accent e é
+  - `U+00C9` capital accent E É
+  - `U+00EA` lower case circumflex e ê
+  - `U+00CA` upper case circumflex E Ê
+  - `U+00E7` lower case c with cedilla ç

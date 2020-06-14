@@ -1,0 +1,5 @@
+## Quotations and Citations and Snippets
+
+  - [[On the threat of the GOP to American Democracy]]
+  - [[On the difference between Liberal Interventionism and Neoconservatism]]
+  - [[Then and now: cops slash tires]]

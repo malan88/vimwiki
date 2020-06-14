@@ -1,6 +1,6 @@
-Sat Nov 10 21:27:37 EST 2018
+# Sat Nov 10 21:27:37 EST 2018
 ----------------------------
-Ingmar Bergman’s _Det sjunde inseglet_
+## Ingmar Bergman’s _Det sjunde inseglet_
 ======================================
 
 I utterly did not plan on writing this review (I really need to stop calling

@@ -1,6 +1,6 @@
-Thu Nov 15 20:39:41 EST 2018
+# Thu Nov 15 20:39:41 EST 2018
 ----------------------------
-Olivier Assayas’ _Clouds of Sils Maria_
+## Olivier Assayas’ _Clouds of Sils Maria_
 =======================================
 
 I am a little over half way through this film and felt the need to make some
