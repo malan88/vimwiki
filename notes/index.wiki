@@ -1,5 +1,5 @@
 == Notes ==
 
-* [[Baudrillard.md|Baudrillard]]
-* [[w2s.md|Glendale W2's]]
-* [[gatsby.wiki|Gatsby]]
+* [[Baudrillard]]
+* [[w2s]]
+* [[gatsby]]
