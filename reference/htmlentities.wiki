@@ -1,0 +1,5 @@
+* check mark ✓ `&#10003;`
+* ballot / cross ✗ `&#10007;`
+* lock 🔒`&#128274;`
+* black up-pointing small triangle ▴ `&#9652;`
+* black down-pointing small triangle ▾ `&#9662;`

@@ -1,4 +1,4 @@
-```
+{{{
 _____________
 |   |   |   |
 |   |   |   |
@@ -15,7 +15,7 @@ _____________
 |   |   |   |   Jean
 |   |   |   |   Beaudrillard
 -------------
-```
+}}}
 
     If once we were able to view the Borges fable in which the cartographers of
     the Empire draw up a map so detailed that it ends up covering the territory

@@ -7,7 +7,7 @@
 
     == recorded stuff ==
 
-        * [[books.csv|books]]
+        * [[books]]
         * [[passages/index.wiki|passages]]
         * [[reference/index.wiki|reference]]
 
