@@ -1,28 +1,28 @@
-== Personal tasks | project:personal ==
+== Personal tasks ==
 * [X] Investigate git and taskwarrior integration with vimwiki  #8766116b
 * [X] Finish vimwiki tutorial  #100694da
-* [ ] Try out bspwm  #e9150267
-* [ ] publish gpg keys  #7b2d31c8
-* [ ] Write Twilio script to bug someone to register to vote  #bb63fffc
+* [X] Write Twilio script to bug someone to register to vote  #bb63fffc
     * [X] host it on AWS however  #349f034e
     * [X] investigate scheduling dynamically  #2f0df870
     * [X] investigate daemonization  #39ab7553
     * [X] finish writing the script  #000ab110
     * [X] consider invite only web service via heroku or aws  #283d9d23
-    * [ ] write a blog about it  #54d394bb
-    * [ ] Register twilio number  #54591a86
+    * [X] write a blog about it  #54d394bb
+    * [X] Register twilio number  #54591a86
+* [ ] Try out bspwm  #e9150267
+* [ ] publish gpg keys  #7b2d31c8
 
-== Vote.py | project:personal.vote ==
+== Vote.py ==
 * [X] host it on AWS however  #349f034e
 * [X] investigate scheduling dynamically  #2f0df870
 * [X] investigate daemonization  #39ab7553
 * [X] finish writing the script  #000ab110
 * [X] consider invite only web service via heroku or aws  #283d9d23
-* [ ] write a blog about it  #54d394bb
-* [ ] Register twilio number  #54591a86
+* [X] write a blog about it  #54d394bb
+* [X] Register twilio number  #54591a86
 
 
-== Job tasks | project:job ==
+== Job tasks ==
 * [X] Finish blog.standingwater.io  #4b4d28dd
     * [X] Netlify it/set up domain/link up  #df741cc5
     * [X] Finish templates/blog slugs  #ac7521bb
@@ -33,10 +33,10 @@
 * [ ] Do the next lesson on kaggle  #10ae331c
 * [ ] apply to bunkr.life !!!  #57446c6a
 
-== Yak Shaving tasks | project:yakshaving ==
+== Yak Shaving tasks ==
 * [X] alias for file creation with date  #6af83f7a
 * [X] leader command for on and off of url obscuration in vim  #1409cc81
 * [ ] keybinding for scrot  #8c426dac
 
-== Family tasks | project:family ==
+== Family tasks ==
 * [ ] Call Spectrum, get new router  #c56cca36

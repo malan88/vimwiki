@@ -1,7 +1,7 @@
 = vimwiki db =
 
     == noted stuff ==
-    
+
         * [[ideas]]
         * [[notes/index.wiki|notes]]
 
@@ -12,7 +12,7 @@
         * [[reference/index.wiki|reference]]
 
     == written stuff ==
-    
+
         * [[reviews/index.wiki|reviews]]
         * [[blogs/index.wiki|blogs]]
 
