@@ -9,13 +9,13 @@
   - [ ] issue on vimwiki for the block quote syntax issue
   - [ ] Register keybase.io
   - [ ] Call Spectrum, get new router
+  - [ ] Emails (stdwtr.io,anno.wiki) in Thunderbird on office comp
 
 # Job Hunt tasks
 
   - [X] Complete more hackerrank
   - [ ] Do the next lesson on kaggle
   - [ ] apply to bunkr.life !!!
-  - [ ] Write jinja2 html preprocessor/static site generator
 
 # Yak Shaving tasks
 
