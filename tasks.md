@@ -5,12 +5,12 @@
   - [X] Write Twilio script to bug someone to register to vote
   - [ ] Try out bspwm
   - [X] publish gpg keys
-  - [ ] pull request for bash function for vimwiki
+  - [X] pull request for bash function for vimwiki
   - [ ] issue on vimwiki for the block quote syntax issue
-  - [ ] Register keybase.io
+  - [X] Register keybase.io
   - [ ] Call Spectrum, get new router
   - [X] Emails (stdwtr.io,anno.wiki) in Thunderbird on office comp
-  - [ ] bank reconciliation
+  - [X] bank reconciliation
 
 # Job Hunt tasks
 
