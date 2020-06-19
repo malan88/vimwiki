@@ -4,3 +4,5 @@
 - [gatsby](gatsby.md)
 - [languages](languages.md)
 - [ml](ml.md)
+- [pandas](pandas.md)
+- [react](react.md)
