@@ -12,6 +12,9 @@
         - [ ] use aws lambda for running the script
         - [ ] use aws dynamodb for storing the current status
     - [ ] Adapt NARA twitter bot to post photos
+    - [ ] electron app
+    - [ ] react native app
+    - [ ] react on anno.wiki
 
 # Personal tasks
 
