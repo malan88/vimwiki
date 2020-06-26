@@ -1,5 +1,5 @@
 ## Reference
 
-  - [unicode](unicode.md)
-  - [htmlentities](htmlentities.md)
   - [ajax](ajax.md)
+  - [htmlentities](htmlentities.md)
+  - [unicode](unicode.md)
