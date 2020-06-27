@@ -1,5 +1,9 @@
 # Techedu tasks
 
+    - [ ] Twitter bot to retweet lines from Adams' correspondence
+        - [ ] Write the blog
+    - [ ] set up server with old computer, ssd
+    - [ ] Try out bspwm
     - [ ] Kaggle intermediate lesson 3
     - [ ] Start GoPL Ch2
     - [ ] Find something to scrape
@@ -7,8 +11,6 @@
     - [ ] Language Map
         - [ ] update data
         - [ ] color categories
-    - [ ] Twitter bot to retweet lines from Adams' correspondence
-        - [ ] Write the blog
     - [ ] Adapt NARA twitter bot to post photos
     - [ ] electron app
     - [ ] react native app
@@ -17,9 +19,8 @@
 # Personal tasks
 
     - [ ] Call Spectrum, get new router
-    - [ ] Try out bspwm
     - [ ] generate list of compose emoji shortcuts
 
 # Yak Shaving tasks
 
-    - [ ] keybinding for scrot
+    - [X] keybinding for scrot
