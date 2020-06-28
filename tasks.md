@@ -1,8 +1,8 @@
 # Techedu tasks
 
-    - [ ] Twitter bot to retweet lines from Adams' correspondence
-        - [ ] Write the blog
-    - [ ] set up server with old computer, ssd
+    - [X] Twitter bot to retweet lines from Adams' correspondence
+        - [X] Write the blog
+    - [X] set up server with old computer, ssd
     - [ ] Try out bspwm
     - [ ] Kaggle intermediate lesson 3
     - [ ] Start GoPL Ch2
