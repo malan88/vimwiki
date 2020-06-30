@@ -5,11 +5,11 @@ HTML=$(MARKDOWN:.md=.html)
 .PHONY = all tar clean
 all: $(HTML)
 
-%.html: %.md
-	sed 's/\.md)/\.html)/g' $< | pandoc --from markdown --to html -o $@
-
-tar: $(MARKDOWN)
-	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
+%.html: %.md style.css
+	# convert md links to html and then pandoc the whole file
+	sed 's/\.md)/\.html)/g' $< | \
+		pandoc -s --metadata title="$*" --css "/style.css" --from markdown --to html -o $@
 
 clean:
-	rm $(HTML)
+	rm $(HTML):w
+
