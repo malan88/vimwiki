@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+$bp0:       1200px;
+$bp1:       900px;
+$bp2:       700px;
+$bp3:       500px;
+
 /* * * * * * * * * * * * *
  *  Nord Color Variables *
  * * * * * * * * * * * * */
@@ -33,29 +38,64 @@ $nord14:    #A3BE8C;
 $nord15:    #835783;
 
 body {
+    padding: 0;
+    background-color: $nord4;
+    color: $nord0;
+
+    font-family: Alegreya;
+    font-size: 20px;
+}
+
+.body {
     width: 50%;
+    padding: 1rem 5rem 3rem 5rem;
     margin: 0 auto;
     background-color: $nord6;
-
-    font-family: EB Garamond;
-    font-size: 20px;
+    box-shadow: 1px 1px 100px 5px $nord3;
+    border-radius: 5px;
+    @media (max-width: $bp0) {
+        width: 80%;
+    }
+    @media (max-width: $bp2) {
+        width: 90%;
+        padding: 1rem;
+    }
+    @media (max-width: $bp3) {
+        width: 100%;
+    }
 }
 
 .title {
     font-family: Inconsolata;
+    font-style: italic;
     font-size: 12px;
     font-weight: light;
+    color: $nord3;
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: Alegreya;
+h1, h2, h3, h4, h5, th {
+    font-family: EB Garamond;
+    color: $nord2;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid $nord3;
+}
+th {
+    background-color: $nord7;
+    color: $nord6;
+}
+tr:nth-child(even) {background-color: $nord4} 
+td {
+    padding: 1rem;
 }
 
 a {
     color: $nord10;
     text-decoration: none;
     &:hover {
-        color: $nord08;
+        color: $nord8;
     }
     &:visited {
         color: $nord15;
@@ -63,5 +103,13 @@ a {
 }
 blockquote {
     color: $nord3;
-    background-color: $nord4;
+    background-color: $nord5;
+    padding: 1rem;
+    border-radius: 5px;
+    text-indent: 2rem;
+    margin: 0;
+    padding: 0.5rem 1rem;
+    & p {
+        margin: 0;
+    }
 }
