@@ -14,7 +14,7 @@ all: $(HTML)
 %.html: %.md style.css
 	# convert md links to html and then pandoc the whole file
 	sed 's/\.md)/\.html)/g' $< | \
-		pandoc -s --metadata title="$*" --css $(STYLE) --from markdown --to html -o $@
+		pandoc -s --template=template._html --metadata title="$*" --css $(STYLE) --from markdown --to html -o $@
 
 clean:
 	rm $(HTML):w

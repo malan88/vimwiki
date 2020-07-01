@@ -2,15 +2,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-$nord0:  #2e3440; /* polar jet */
-$nord10: #5e81ac; /* frost cerulean */
-$nord15: #835783; /* aurora purple */
-$nord08: #359797; /* frost aqua */
+/* * * * * * * * * * * * *
+ *  Nord Color Variables *
+ * * * * * * * * * * * * */
+
+/* For details see https://www.nordtheme.com/docs/colors-and-palettes */
+
+/* Polar Night Palette */
+$nord0:     #2e3440;
+$nord1:     #3B4252;
+$nord2:     #434C5E;
+$nord3:     #4C566A;
+
+/* Snow Storm */
+$nord4:     #D8DEE9;
+$nord5:     #E5E9F0;
+$nord6:     #ECEFF4;
+
+/* Frost */
+$nord7:     #8FBCBB;
+$nord8:     #88C0D0;
+$nord9:     #81A1C1;
+$nord10:    #5e81ac;
+
+/* Aurora */
+$nord11:    #BF616A;
+$nord12:    #D08770;
+$nord13:    #EBCB8B;
+$nord14:    #A3BE8C;
+$nord15:    #835783;
 
 body {
-    font-family: EB Garamond;
     width: 50%;
     margin: 0 auto;
+    background-color: $nord6;
+
+    font-family: EB Garamond;
     font-size: 20px;
 }
 
@@ -35,5 +62,6 @@ a {
     }
 }
 blockquote {
-    color: $nord0;
+    color: $nord3;
+    background-color: $nord4;
 }
