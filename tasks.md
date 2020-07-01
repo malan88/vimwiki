@@ -1,8 +1,7 @@
 # Techedu tasks
 
-    - [X] Twitter bot to retweet lines from Adams' correspondence
-        - [X] Write the blog
-    - [X] set up server with old computer, ssd
+    - [ ] Add instapaper to linklists
+    - [ ] Investigate ::after element on code in blog
     - [ ] Try out bspwm
     - [ ] Kaggle intermediate lesson 3
     - [ ] Start GoPL Ch2
