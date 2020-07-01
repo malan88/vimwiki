@@ -17,5 +17,4 @@ all: $(HTML)
 		pandoc -s --template=template._html --metadata title="$*" --css $(STYLE) --from markdown --to html -o $@
 
 clean:
-	rm $(HTML):w
-
+	rm $(HTML)
