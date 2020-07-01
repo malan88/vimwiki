@@ -9,8 +9,9 @@
 > also reported that Abbie Hoffman had been arrested for having FUCK
 > written across his forehead.
 
-Nixonland: The rise of a President and the fracturing of America
-Rick Perlstein, 313, https://books.google.com/books?id=dM_enWzoghoC&pg=PA313&lpg=PA313&dq=cops+slash+tires+eugene+mccarthy+chicago&source=bl&ots=6fFhqdlLCt&sig=ACfU3U1rTiVw1Ec6j41RwdAngsqK-p7ZOw&hl=en&sa=X&ved=2ahUKEwjLs-LDn_DpAhUmWN8KHSn9Cr8Q6AEwAHoECAoQAQ#v=onepage&q=cops%20slash%20tires%20eugene%20mccarthy%20chicago&f=false>
+[Nixonland: The rise of a President and the fracturing of America
+Rick Perlstein][0], 313
+
 
 > A week ago, there were many reports out of Minneapolis that
 > protesters, reporters, and even medics had found that the tires of
@@ -21,5 +22,8 @@ Rick Perlstein, 313, https://books.google.com/books?id=dM_enWzoghoC&pg=PA313&lpg
 > at a highway overpass. The officers at the scene appear to be a
 > mixture of state troopers and county police.
 
-Video Shows Law Enforcement Officers Slashing Tires at Minneapolis Protests
-Daniel Politi, Slate, June 07, 2020, 10:16 AM, <https://slate.com/news-and-politics/2020/06/video-officers-slashing-tires-minneapolis-protests.html>
+[Video Shows Law Enforcement Officers Slashing Tires at Minneapolis Protests][1]
+Daniel Politi, Slate, June 07, 2020, 10:16 AM
+
+[0]: https://books.google.com/books?id=dM_enWzoghoC&pg=PA313&lpg=PA313&dq=cops+slash+tires+eugene+mccarthy+chicago&source=bl&ots=6fFhqdlLCt&sig=ACfU3U1rTiVw1Ec6j41RwdAngsqK-p7ZOw&hl=en&sa=X&ved=2ahUKEwjLs-LDn_DpAhUmWN8KHSn9Cr8Q6AEwAHoECAoQAQ#v=onepage&q=cops%20slash%20tires%20eugene%20mccarthy%20chicago&f=false
+[1]: https://slate.com/news-and-politics/2020/06/video-officers-slashing-tires-minneapolis-protests.html

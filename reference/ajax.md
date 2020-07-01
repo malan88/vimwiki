@@ -3,14 +3,17 @@
 
 Methods
 =======
-`open(method,url,async,user,psw)`       Specifies the request
+- `open(method,url,async,user,psw)` 
+    - Specifies the request
     - method: the request type GET or POST
     - url: the file location
     - async: true (asynchronous) or false (synchronous)
     - user: optional user name
     - psw: optional password
-`send()` 	                            Sends the request to the server; Used for GET requests
-`send(string)` 	                        Sends the request to the server; Used for POST requests
+`send()` 
+    - Sends the request to the server; Used for GET requests
+`send(string)` 
+    - Sends the request to the server; Used for POST requests
 
 XMLHttpRequest Object Properties
 ================================

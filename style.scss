@@ -1,11 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
 @import url('//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css');
+
+$nord0:  #2e3440; /* polar jet */
+$nord10: #5e81ac; /* frost cerulean */
+$nord15: #835783; /* aurora purple */
+$nord08: #359797; /* frost aqua */
 
 body {
     font-family: Alegreya;
-    font-size: 16px;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
 }
 
 .title {
-    font-family: Hack;
+    font-family: Inconsolata;
+    font-size: 12px;
+    font-weight: light;
+}
+
+a {
+    color: $nord10;
+    text-decoration: none;
+    &:hover {
+        color: $nord08;
+    }
+    &:visited {
+        color: $nord15;
+    }
+}
+blockquote {
+    color: $nord0;
 }
