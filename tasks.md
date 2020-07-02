@@ -1,3 +1,11 @@
+# anno.wiki
+
+    - [ ] React
+    - [ ] Graphene Graphql
+    - [ ] Incremental Search
+    - [ ] Omni Search
+    - [ ] Upgrade Jawbone
+
 # Techedu tasks
 
     - [ ] Add instapaper to linklists
