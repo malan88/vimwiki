@@ -8,12 +8,15 @@
 
 # Techedu tasks
 
-    - [ ] Add instapaper to linklists
+    - [ ] checklist for work
+    - [ ] investigate autopairs for closing already open, not opening closing
+    - [ ] python script to aggregate highlights
+    - [X] Add instapaper to linklists
     - [ ] Investigate ::after element on code in blog
-    - [ ] Try out bspwm
+    - [X] Try out bspwm
     - [ ] Kaggle intermediate lesson 3
     - [ ] Start GoPL Ch2
-    - [ ] Find something to scrape
+    - [X] Find something to scrape
     - [ ] Gentle Rust
     - [ ] Language Map
         - [ ] update data
@@ -21,7 +24,6 @@
     - [ ] Adapt NARA twitter bot to post photos
     - [ ] electron app
     - [ ] react native app
-    - [ ] react on anno.wiki
 
 # Personal tasks
 
