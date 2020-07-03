@@ -1,12 +1,15 @@
 # anno.wiki
 
-    - [ ] Electron app
-    - [ ] Graphene Graphql
-    - [ ] Incremental Search
-    - [ ] Omni Search
     - [ ] React
+        - [ ] authentication specific to new.anno.wiki (later, anno.wiki) while
+              still exposing api to all.
+    - [ ] Graphene Graphql
+    - [ ] Imporove search
+        - [ ] Incremental Search
+        - [ ] Omni Search
     - [ ] React Native app
     - [ ] Upgrade Jawbone
+    - [ ] Electron app
 
 # Techedu tasks
 
@@ -16,11 +19,6 @@
         - [ ] update data
     - [ ] investigate autopairs for closing already open, not opening closing
     - [ ] python script to aggregate highlights
-    - [X] Add instapaper to linklists
-    - [X] Find something to scrape
-    - [X] Investigate ::after element on code in blog
-    - [X] Try out bspwm
-    - [X] checklist for work
 
 # Backburner
 
@@ -32,7 +30,3 @@
 
     - [ ] Call Spectrum, get new router
     - [ ] generate list of compose emoji shortcuts
-
-# Yak Shaving tasks
-
-    - [X] keybinding for scrot
