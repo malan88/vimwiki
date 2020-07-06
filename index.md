@@ -2,8 +2,10 @@
   - [notes](notes/index.md)
   - [passages](passages/index.md)
   - [reviews](reviews/index.md)
+ 
+---
 
-# Tasks
+# tasks
 
 ## anno.wiki
 
@@ -18,7 +20,7 @@
     - [ ] Upgrade Jawbone
     - [ ] Electron app
 
-## Techedu tasks
+## techedu
 
     - [ ] Kaggle intermediate lesson 3
     - [ ] Language Map
@@ -27,13 +29,13 @@
     - [ ] investigate autopairs for closing already open, not opening closing
     - [ ] python script to aggregate highlights
 
-## Backburner
+## backburner
 
     - [ ] Gentle Rust
     - [ ] Adapt NARA twitter bot to post photos
     - [ ] Start GoPL Ch2
 
-## Personal tasks
+## personal
 
     - [ ] Call Spectrum, get new router
     - [ ] generate list of compose emoji shortcuts

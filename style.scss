@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+@import url('//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 $bp0:       1200px;
@@ -59,12 +59,39 @@ body {
 
 .title {
     font-family: Inconsolata;
-    font-style: italic;
     font-size: 12px;
     font-weight: light;
+    color: $nord3;
+}
+
+p, ul, ol {
+    font-size: 1.5rem;
+}
+ul a {
+    font-family: Hack;
+    font-size: 2rem;
+}
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+pre {
+    font-family: Hack;
+    background-color: $nord6;
+    padding: 1rem;
+}
+code {
+    font-family: Hack;
+    background-color: $nord6;
+    padding: 0.1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
 }
 
 table {
+    font-family: Hack;
     border-collapse: collapse;
     border: 1px solid $nord3;
 }
@@ -87,6 +114,7 @@ a {
     }
 }
 blockquote {
+    font-style: italic;
     color: $nord3;
     padding: 1rem;
     border-radius: 5px;
