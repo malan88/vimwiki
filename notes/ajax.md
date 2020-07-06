@@ -18,19 +18,26 @@ Methods
 XMLHttpRequest Object Properties
 ================================
 
-Property                            Description
------------------------------------------------
-`onreadystatechange` 	            Defines a function to be called when the readyState property changes
-`readyState`                        Holds the status of the XMLHttpRequest.
-                                        - 0: request not initialized
-                                        - 1: server connection established
-                                        - 2: request received
-                                        - 3: processing request
-                                        - 4: request finished and response is ready
-`responseText` 	                    Returns the response data as a string
-`responseXML` 	                    Returns the response data as XML data
-`status` 	                        Returns the status-number of a request
-                                        - 200: "OK"
-                                        - 403: "Forbidden"
-                                        - 404: "Not Found"
-`statusText`                    	Returns the status-text (e.g. "OK" or "Not Found")
+| Property             | Description                                                          |
+|----------------------|----------------------------------------------------------------------|
+| `onreadystatechange` | Defines a function to be called when the readyState property changes |
+| `readyState`         | Holds the status of the XMLHttpRequest.                              |
+| `responseText`       | Returns the response data as a string                                |
+| `responseXML`        | Returns the response data as XML data                                |
+| `status`             | Returns the status-number of a request                               |
+| `statusText`         | Returns the status-text (e.g. "OK" or "Not Found")                   |
+
+
+| readyState | meaning                                |
+|------------|----------------------------------------|
+| 0          | request not initialized                |
+| 1          | server connection established          |
+| 2          | request received                       |
+| 3          | processing request                     |
+| 4          | request finished and response is ready |
+
+| number | status      |
+|--------|-------------|
+| 200    | "OK"        |
+| 403    | "Forbidden" |
+| 404    | "Not Found" |
