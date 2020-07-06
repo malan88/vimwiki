@@ -81,12 +81,18 @@ pre {
     font-family: Hack;
     background-color: $nord6;
     padding: 1rem;
+    code {
+        border: 0;
+        padding: 0;
+        line-height: 2rem;
+    }
 }
 code {
     font-family: Hack;
     background-color: $nord6;
-    padding: 0.1rem;
-    border-radius: 0.5rem;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    border: 1px solid $nord7;
     font-size: 1.2rem;
 }
 

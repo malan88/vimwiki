@@ -49,12 +49,17 @@ pre {
   font-family: Hack;
   background-color: #ECEFF4;
   padding: 1rem; }
+  pre code {
+    border: 0;
+    padding: 0;
+    line-height: 2rem; }
 
 code {
   font-family: Hack;
   background-color: #ECEFF4;
-  padding: 0.1rem;
-  border-radius: 0.5rem;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  border: 1px solid #8FBCBB;
   font-size: 1.2rem; }
 
 table {
