@@ -1,4 +1,4 @@
-- The key is the `XMLHttpRequest` object
+# - The key is the `XMLHttpRequest` object
     - `var xhttp = new XMLHttpRequest();` should do it.
 
 Methods
@@ -28,16 +28,16 @@ XMLHttpRequest Object Properties
 | `statusText`         | Returns the status-text (e.g. "OK" or "Not Found")                   |
 
 
-| readyState | meaning                                |
-|------------|----------------------------------------|
-| 0          | request not initialized                |
-| 1          | server connection established          |
-| 2          | request received                       |
-| 3          | processing request                     |
-| 4          | request finished and response is ready |
+| `readyState` | meaning                                |
+|--------------|----------------------------------------|
+| 0            | request not initialized                |
+| 1            | server connection established          |
+| 2            | request received                       |
+| 3            | processing request                     |
+| 4            | request finished and response is ready |
 
-| number | status      |
-|--------|-------------|
-| 200    | "OK"        |
-| 403    | "Forbidden" |
-| 404    | "Not Found" |
+| #   | status      |
+|-----|-------------|
+| 200 | "OK"        |
+| 403 | "Forbidden" |
+| 404 | "Not Found" |

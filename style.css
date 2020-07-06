@@ -58,18 +58,22 @@ code {
   font-size: 1.2rem; }
 
 table {
+  margin: 1rem auto;
   font-family: Hack;
   border-collapse: collapse;
   border: 1px solid #4C566A; }
 
 th {
-  background-color: #8FBCBB; }
+  background-color: #8FBCBB;
+  padding: 1rem;
+  text-align: center; }
 
 tr:nth-child(even) {
   background-color: #D8DEE9; }
 
 td {
-  padding: 1rem; }
+  padding: 1rem;
+  border: 1px solid black; }
 
 a {
   color: #5e81ac;
