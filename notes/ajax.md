@@ -1,4 +1,4 @@
-# - The key is the `XMLHttpRequest` object
+- The key is the `XMLHttpRequest` object
     - `var xhttp = new XMLHttpRequest();` should do it.
 
 Methods
