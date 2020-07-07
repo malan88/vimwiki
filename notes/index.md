@@ -5,7 +5,6 @@
 - [dynamodb](dynamodb.md)
 - [e2guardian](e2guardian.md)
 - [gatsby](gatsby.md)
-- [generate_index](generate_index.py)
 - [htmlentities](htmlentities.md)
 - [ideas](ideas.md)
 - [lambda](lambda.md)

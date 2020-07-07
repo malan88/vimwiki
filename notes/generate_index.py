@@ -6,6 +6,7 @@ notesdir = os.path.expanduser('~/vimwiki/notes')
 
 files = os.listdir(notesdir)
 files.pop(files.index('index.md'))
+files.pop(files.index('generate_index.py'))
 files.sort()
 
 with open(f'{notesdir}/index.md', 'wt') as index:
