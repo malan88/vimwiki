@@ -1,2 +1,0 @@
-- [Lambda](Lambda.md)
-- [dynamodb](dynamodb.md)

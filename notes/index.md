@@ -1,5 +1,6 @@
 # Notes
-- [AWS](AWS.md)
+- [aws lambda](Lambda.md)
+- [aws dynamodb](dynamodb.md)
 - [Baudrillard](Baudrillard.md)
 - [ajax](ajax.md)
 - [gatsby](gatsby.md)
