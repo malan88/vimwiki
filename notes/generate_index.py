@@ -2,11 +2,13 @@
 
 import os
 
-files = os.listdir()
+notesdir = os.path.expanduser('~/vimwiki/notes')
+
+files = os.listdir(notesdir)
 files.pop(files.index('index.md'))
 files.sort()
 
-with open('index.md', 'wt') as index:
+with open(f'{notesdir}/index.md', 'wt') as index:
     index.write('# notes\n\n')
     for file in files:
         index.write('- [' +
