@@ -37,3 +37,6 @@
 
     - [ ] Call Spectrum, get new router
     - [ ] generate list of compose emoji shortcuts
+    - [ ] I want a better checklist app for work
+    - [ ] I need to find a simple and efficient way to take notes. Notational
+          Velocity is key on my mind
