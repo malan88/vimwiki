@@ -2,6 +2,7 @@
 
 - [Baudrillard](Baudrillard.md)
 - [ajax](ajax.md)
+- [docker](docker.md)
 - [dynamodb](dynamodb.md)
 - [e2guardian](e2guardian.md)
 - [gatsby](gatsby.md)
@@ -12,6 +13,7 @@
 - [ml](ml.md)
 - [notational_velocity](notational_velocity.md)
 - [pandas](pandas.md)
+- [pourover](pourover.md)
 - [react](react.md)
 - [unicode](unicode.md)
 - [w2s](w2s.md)
