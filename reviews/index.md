@@ -35,7 +35,7 @@ viewed/written. I used a command to write in the filenames to write the
 links, which is why they are ordered by date (the filenames begin with a
 date).
 
-- 2020-07 [Dark](Dark.md)
+- [2020-07 Dark](Dark.md)
 
 ## [Film Journal](journal.md)
 
