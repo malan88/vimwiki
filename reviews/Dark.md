@@ -1,4 +1,5 @@
 # Dark
+#### Tue 07 Jul 2020 08:00:31 PM EDT
 
 With the release of the third and final season of Dark I am ecstatic to finish
 this series. Unfortunately, much of it is relatively rough in my memory, and as
@@ -26,8 +27,8 @@ the same sins visited upon us.
 Okay! Now to begin!
 
 ## Season 1
-
 ### Episode 1
+#### Tue 07 Jul 2020 08:10:03 PM EDT
 
 Ah, the letter is to be opened on my birthday. Interéssant.
 
@@ -59,3 +60,13 @@ Germans use. I know the French are like this too. I've heard fuck, hey, and
 bullshit already.
 
 Germans and the forest, man. I don't even know.
+
+### Episode 2
+#### Tue 07 Jul 2020 09:00:29 PM EDT
+
+The burnt eyes really seems symbolic. I mean, of course, blindness has been a
+symbol throughout history and literature. Oedipus is the first thing that comes
+to mind.
+
+Old Jonas is really very menacing in the early part of the series. I don't
+remember why he was experimenting on the Oberdorf (or whatever) boy.
