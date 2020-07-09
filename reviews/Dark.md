@@ -70,3 +70,9 @@ to mind.
 
 Old Jonas is really very menacing in the early part of the series. I don't
 remember why he was experimenting on the Oberdorf (or whatever) boy.
+
+They definitely make it seem pretty clear that Old Jonas killed the Obendorf
+boy.
+
+I don't know if it's Germany, or just a TV show, but who the hell lives in the
+house they grew up in.
