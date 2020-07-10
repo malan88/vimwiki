@@ -1,6 +1,5 @@
 # Dark
 #### Tue 07 Jul 2020 08:00:31 PM EDT
-
 With the release of the third and final season of Dark I am ecstatic to finish
 this series. Unfortunately, much of it is relatively rough in my memory, and as
 I watch the first two episodes of Season 3 I felt a little lost and bored.
@@ -29,7 +28,6 @@ Okay! Now to begin!
 ## Season 1
 ### Episode 1
 #### Tue 07 Jul 2020 08:10:03 PM EDT
-
 Ah, the letter is to be opened on my birthday. Interéssant.
 
 Yes, I know it is a German television show, I will still be using French words.
@@ -63,7 +61,6 @@ Germans and the forest, man. I don't even know.
 
 ### Episode 2
 #### Tue 07 Jul 2020 09:00:29 PM EDT
-
 The burnt eyes really seems symbolic. I mean, of course, blindness has been a
 symbol throughout history and literature. Oedipus is the first thing that comes
 to mind.
@@ -76,3 +73,35 @@ boy.
 
 I don't know if it's Germany, or just a TV show, but who the hell lives in the
 house they grew up in.
+
+### Episode 3
+#### Thu 09 Jul 2020 07:49:30 PM EDT
+Why would a German ever buy a French car? I'm not even asking for nationalistic
+reasons. French cars are absolute shit.
+
+Okay, so that was a detour. I googled "Are French cars shit" to see if I am
+correct in this belief and someone shat on the stereotype. I don't even know why
+I try sometimes.
+
+I can have very intelligent discussions about the Bible. I know quite a lot
+about scripture. But I cannot just quote off scripture, save like 3 verses, and
+that bothers me. Same with good old Billy. I have read about a thid of his
+works. I cannot just rattle off a Shakespeare quote for the occasion. Well,
+idk, maybe I can and just never try?
+
+"Fox hide, all and after!"
+
+"When the wind is north north westerly, I know a hawk from a handsaw."
+
+Okay, I've exhausted what's on the tip of my tongue.
+
+"Not a whit, we defy augury! There is a special providence in the fall of a
+sparrow."
+
+Maybe I have a few more, I just wish I was better at that. (This digression is
+inspired by a farmer in Dark quoting Mark 13:33.)
+
+The soundtrack for this series is so great. The side-by-sides are so effective,
+showing these people in '86 and '19. What is so effective about this series is
+the way it humanizes it's characters through their simultaneous developments.
+All humans exist in time, and so change. We can only know a person over time.
