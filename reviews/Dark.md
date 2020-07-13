@@ -105,3 +105,76 @@ The soundtrack for this series is so great. The side-by-sides are so effective,
 showing these people in '86 and '19. What is so effective about this series is
 the way it humanizes it's characters through their simultaneous developments.
 All humans exist in time, and so change. We can only know a person over time.
+
+### Episode 4
+#### Sun 12 Jul 2020 04:43:00 PM EDT
+Birds are always symbolic. Mass bird kill, while clearly a shocking motif in all
+sci-fi, is probably symbolic, or at least lends itself to symbolic analysis, in
+Dark.
+
+Usually birds individually represent freedom, or the human soul. Here, mass bird
+kill, would seem to refer to the trap of time the characters, and by extent all
+of us, experience.
+
+The fact that the children disappear specifically seems so significant. Like, I
+interpret everything in this series as being a symbol of eternal recurrence of
+human drama and pain. It is as though children are snatched by time, by our own
+discord.
+
+Something peculiar to time warp dramas (Harry Potter 3, Dark, Star Trek First
+Contact, Timeline, etc., etc.) is that insignificant contingencies often come to
+take on extreme importance and seem almost inevitable, required even.
+
+### Episode 5
+#### Sun 12 Jul 2020 06:26:34 PM EDT
+I wonder if Jonas' name is as biblical as Noah. Jonah is related but not the
+same. Though Jonah is not a popular name like Jonas.
+
+I've said it once and I'll say it again: the way this series juxtaposes the
+characters' faces from then and now in different situations is so effective at
+filling out the interior emotional lives of those characters. It has to be one
+of the most effective things about the entire series.
+
+This series makes me want to read more Heidegger so bad. And yet, it's never
+fun.
+
+### Episode 6
+#### Sun 12 Jul 2020 07:46:41 PM EDT
+The costume of the narrator kid in the play is clearly thematically rhyming with
+the burns on the eyes of the dead kid discovered in the forest. [30:01]
+
+I mean, how can the story of Theseus and the Minotaur would be symbolic. Like,
+Old Jonas even calls time a labyrinth.
+
+What is so fucking real about this series is how beautifully ambivalent the
+characters are. Katharina and Ulrich are the popular bad kids, but really, are
+they? Regina and Hannah are both victims of Katharina and Ulrich's carelessness,
+but also perpetrators of pain on others, and, to an extent, almost psychopaths.
+The love triangle of Bartosz, Martha, and Jonas is incredibly true to life.
+Everyone is so multi-faceted and written in the round. I don't think there's a
+single flat character in the entire series.
+
+I dislike the Germans. I think they are sanctimonious, sometimes quite ignorant,
+isolationist, self-absorbed, haughty, and too conservative by half. But they
+can also be stunningly trenchant observers of human nature and reality.
+Heidegger was a massively self-absorbed douchebag who hurt everyone around him
+and never owned up to his own failings, but he perhaps saw the nature of reality
+better than anyone before or since. That is Germanness. And, to the extent that
+I can accept myself, I think I am one. It is perhaps for that very reason I hate
+them so much.
+
+I speak French. I have been obsessed with the French since I was a teenager. I
+need to learn Spanish. But I have a very strange inclination to learn German.
+We'll see.
+
+This series is an exploration of philosophical concepts like eternal recurrence
+and mythological themes. But it is also, in a deeper sense, an exploration of
+how we're all alone together. The epistemological separateness of humanity. We
+cannot know each other. A solipsistic exploration of the human condition, of
+loneliness.
+
+I watch these characters break down crying and it echoes what I feel inside,
+during this pandemic, living with my family but feeling so separate from them,
+trapped in their cult, obsessed with a fascisistic leader. The series may touch
+on 1920-1953-1986-2019-2052, but the bunker is quite clearly built in WWII. The
+stench of history hangs over the Germans always.
