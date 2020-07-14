@@ -26,6 +26,8 @@
         - [ ] update data
     - [ ] investigate autopairs for closing already open, not opening closing
     - [ ] python script to aggregate highlights
+    - [ ] Return the previous version of john&abbie to operation (i.e., break on
+          periods)
 
 ## backburner
 
