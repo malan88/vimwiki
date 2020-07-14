@@ -178,3 +178,108 @@ during this pandemic, living with my family but feeling so separate from them,
 trapped in their cult, obsessed with a fascisistic leader. The series may touch
 on 1920-1953-1986-2019-2052, but the bunker is quite clearly built in WWII. The
 stench of history hangs over the Germans always.
+
+### Episode 7
+#### Mon 13 Jul 2020 04:33:50 PM EDT
+The 33 year cycle makes sense from a purely physical sense. Let's say you travel
+through time but not space. Supposing absolute space exists (a supposition that
+is not a given), if you were to travel 25 years in time, but stay in the same
+physical space, you would die in the vacuum of space, because the earth is not
+in the same place. Technically, with the earth alone, this would be fine on a
+yearly basis. Therefore the 33 year cycle is perhaps more interested in the
+symbolic function of 33 years. But a discrete requirement of time travel makes
+complete sense.
+
+### Episode 8
+#### Mon 13 Jul 2020 06:10:28 PM EDT
+Given the name of the town, Winden, is German for wind (I believe it's a plural?
+winds?), there seems to be a bit of forethought on this. In the series, the
+wormhole tunnel is always very windy when the door is opened. It would be
+entirely plausible that there would be massive air pressure differences between
+localized times. But there's something funnier in that: the winds of time.
+
+Something I have believed for some time, picking up from earlier when I was
+talking about the necessity of contingencies, is that reality is not composed of
+incidental contingencies but larger trends and functional ruts. Change any
+little contingent event in history and it will still turn out mostly the same.
+This is entirely contrary to most people's instincts, but it's how I view a lot
+of things: morality, temporalism, history, fate. The arc of history bends toward
+justice is a high-minded way of seeing this.
+
+I see morality as being relative, in the sense that I am not in any way a "moral
+realist." I really believe it would require supernatural agency to conclude in
+any form of moral realism. That said, there are certain human universal morals:
+not killing, not hurting others, not stealing (in societies with private
+property). The conclusion is that human beings have universal morals, but how
+can that be if there is no moral realism? Well, simply through logic these are
+morals that allow for the continued existence of human society. These are the
+most essential "functional ruts" of moral society. Smaller, more idiosyncratic
+"functional ruts" come into existence through the continued interaction of a
+given society. Almost like informal jurisprudence.
+
+Species are not "real." There is no Platonistic Ideal Form of the Human Being.
+But through functional ruts there exists a large body of co-occurring traits
+that we call human beings. The same can basically be said for every species.
+Sometimes the gradients along a given set of species is blurry. That is because
+there is no necessity for reality to define further the border between those two
+species. Race is even more fuzzy like this.
+
+History, likewise, is like this. Or at least, this is how I view it. We hear
+about contingencies in history all the time in alternative history. What if the
+allies lost at Midway. What if the South won Gettysburg. What if Winston
+Churchill had died crossing the road? Well, I have a feeling history would not
+have turned out that much more different than it has. Certainly there would be
+slight changes, and the more contingent a given incidental that you change the
+greater the changes, but we'd probably still be talking on cell phones and
+worrying about the spread of democracy and human rights. We're human beings, and
+the same forces would be at play.
+
+I, being a human being, am full of contradictions. Thus, I often spend some time
+wondering about if the Athenians had won the Pelopponesian War (the Athenians,
+if you are unaware, were the ancient equivalent of the DNC: able to snatch
+defeat from the clutches of victory; hell, they're both democrats). I often
+think, man, democracy would have been acendant, Athens would have reached even
+greater heights, Rome may never have gotten off the ground, the Mediterannean
+may have remained the center of civilization, who knows what ramifications that
+might have had. Sparta's victory over Athens is the ancient equivalent of the
+Nazi's beating the allies.
+
+Except that's probably bullshit and I'm just mentally masturbating. History is a
+struggle of good (liberalism, freedom, equality) against evil (racialism,
+tribalism, authoritarianism) and it always has been. The same forces would have
+been at play then as now, and remarkably similar results would have prevailed.
+We just might be speaking a weird cross between Celtic and Greek instead of
+Celtic and Latin (I'm speaking here, of course, of French, and it's incredible
+influences over English. If you've never realized it, English speakers are
+basically speaking a form of French with a German grammatical structure).
+
+Seeing the caves as the past and the power plant as the future, especially
+through the lens of Germany's rejection of nuclear energy, makes the symbolism
+very interesting, very complex.
+
+Wow, this old fuck Tannhaus just came out and said it: the future influences the
+past.
+
+I've been saying this for a decade.
+
+Causation does not exist. Necessitation does. Events require each other.
+
+Imagine an old engine. There are part types A-Z. You have to replace part B, but
+part B is no longer manufactured. So you have to get part Bb from the
+manufacturer. Trouble is, part Bb is incompatible with part C, so you also have
+to update part C to part Cb. Idealistically, let's just leave it there, but you
+could have a whole cascade of dependency hell as a result of this. This is
+reality. Time. Causation. Event C is dependent on part B, but just as much, B is
+dependent on part C, so that you can't change them independently. There are
+functional equivalences depending upon the resolution, but events necessitate
+each other in complex webs of conditionality, often biconditionality.
+
+Helge Doppler is the second child of the series to keep dead birds and stare at
+them. Charlotte Doppler as a teenager was the first (I believe). They are not
+blood. This is interesting for several reasons. The first is that it indicates
+that the two characters have a deeper self-analytical soul than the other
+characters. They are introspective. Or they long for freedom. The second thing
+it prompts is an analysis of the name Doppler. The doppler effect has to do with
+blue shifts and red shifts, objects approaching and receding and how that shifts
+wave lengths. This seems relevant to the future. The Doppler family changes the
+most over the course of the series? They are the strangest, to be sure.
