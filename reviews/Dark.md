@@ -283,3 +283,30 @@ it prompts is an analysis of the name Doppler. The doppler effect has to do with
 blue shifts and red shifts, objects approaching and receding and how that shifts
 wave lengths. This seems relevant to the future. The Doppler family changes the
 most over the course of the series? They are the strangest, to be sure.
+
+### Episode 9
+#### Mon 13 Jul 2020 08:50:36 PM EDT
+I have nothing to say about this episode.
+
+### Episode 10
+#### Tue 14 Jul 2020 08:09:50 PM EDT
+Peter Doppler, Tronte Nielsen, and Claudia Tiedemann. I think that's all the
+families but the Kahnwalds. Are there any other families?
+
+This series may take quite a lot from Nietzsche, but I swear there is Heidegger
+in it.
+
+The most significant thing I ever took from Heidegger was that our emotions and
+feelings are not just chemicals but actual interactions with reality. That is to
+say, the emotion of dread, or angst, is an internal mirror to nothingness. Here
+as I type this it sounds far-fetched, but it is incredibly convincing in What is
+Metaphysics? and I am convinced of the thesis.
+
+When Tannhaus says "What does it matter if my decision was the result of a
+causal link or a vague feeling?" I read it as a statement that is nearly one and
+the same. That vague feeling is not meaningless chemical interactions but
+internal representations of reality.
+
+This music is so Glassian.
+
+I love orphic predictions.
