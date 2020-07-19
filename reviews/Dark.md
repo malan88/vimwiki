@@ -310,3 +310,29 @@ internal representations of reality.
 This music is so Glassian.
 
 I love orphic predictions.
+
+## Season 2
+### Episode 1
+#### Wed 15 Jul 2020 06:11:38 PM EDT
+It is too fucking good that they plotted the apocalypse in June 2020, at the
+height of 'rona and the riots.
+
+Also, they're wearing masks.
+
+The power plant figured so little into the first season it's pretty clear to me
+that there might be a thematic exploration to each season. Season 1, the past,
+season 2, the future, season 3, the present. This is, of course, possibly wrong,
+and we'll see as I complete season 2 and 3.
+
+SPOILERS
+Wow, in the first episode Old Jonas looks at the floor next to the kitchen table
+and it's like you only know that he's looking at Martha's dead body if you've
+finished the second season.
+/SPOILERS
+
+Weird ass Europeans without driver's licenses.
+
+That orb light is so impractical.
+
+I will never tire of the fact that the cave is the past, the power plant is the
+future, and a door connects them.
