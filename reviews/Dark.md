@@ -336,3 +336,158 @@ That orb light is so impractical.
 
 I will never tire of the fact that the cave is the past, the power plant is the
 future, and a door connects them.
+
+### Episode 6
+#### Sun 19 Jul 2020 12:47:48 PM EDT
+Whoops, I guess I let this get away from me.
+
+The heavy metal album Ulrich listens to as a teenager seemed to have the Emerald
+Tablet thing, and later on it doesn't in this season.
+
+I feel like the line they keep repeating "I just want to kill, the more I kill,
+the better I feel" or whatever, is just coincidental and not symbolic, but I
+have trouble believing that. Like, I don't know how to read it. Is time talking
+to us? Time wants to kill people? Ulrich? I don't get it.
+
+### Episode 7
+#### Sun 19 Jul 2020 05:28:04 PM EDT
+We kill our parents to make our children. All of these characters are so real,
+so round, it's incredible. But I find I particularly like Claudia. She's kind of
+bratty as a girl, a bit horrific as an adult, and absolutely lovely as an old
+lady.
+
+People who are shaped by tragedy are always so much calmer, more somber. I mean,
+it's natural that sadness and depression would manifest in these symptoms, but
+there's often a quiet confidence in people shaped by tragedy.
+
+Oh, and Hannah is a psychopath.
+
+### Episode 8
+#### Sun 19 Jul 2020 07:09:57 PM EDT
+Certain things in this world are so essentially wrong that we recoil against
+even our greatest heroes when we suspect them to be perpetrating them, even just
+the image suggestive of it, knowing it is not the case. A 40 something man
+grabbing a girl by the arm, not letting her go, and pulling a gun on her is so
+reprehensible in it's implications that, even when we know and like Jonas as a
+character, trust that he has a good heart and does what is right and good, and
+even understand his personal justification, the image of him grabbing Martha by
+the arm and pulling a gun on her is completely repugnant. It is fascinating when
+a series can do something like that.
+reprehensible 
+
+I haven't gotten to it yet in the episode, but i just want to say I think the
+Charlotte-Franziska (sp) continuum is the weirdest fucking thing. It is
+incredibly brave for the writers to do it because it really _really_ pushes the
+line toward jumping the shark. Luckily I guess they wrote the whole thing before
+any of it started getting filmed so it's a taut plotline and they knew what they
+were doing. I assume. I haven't seen season 3.
+
+I believe this series falls into the trope of believing hazmat suits protect you
+from radiation. Spoiler alert: they don't.
+
+Katharina's obstinacy at bringing Mikkel back is worse than Ulrich's. It's a
+denial of her own son's autonomy. It is profoundly frustrating. The selfishness
+of parenthood.
+
+How is Noah Charlotte's father? Why isn't Magnus?
+
+I actually like Adam's swagger. His style.
+
+OH I get it now. I forgot then. I thought it was Franziska, no it's Elizabeth.
+
+Ah, Noah was a homicidal fanatic.
+
+Is the apocalypse death?
+
+I really think Adam killing Martha was one of the biggest shocks of my first
+watch.
+
+In America search warrants are limited to what you expect to find. At least,
+this is my understanding. Clausen can't just go on a fishing expedition and tear
+up the ground because he feels curious.
+
+Alternate universe Martha looks like French Resistance.
+
+So much of this episode felt jump the sharky and yet I loved every second of it.
+
+## Season 3
+### Episode 1
+#### Sun 19 Jul 2020 08:11:20 PM EDT
+I looked up the painting. It's a Rubens. I thought it looked stylistically
+familiar. It's perfect for the show, but what kind of a freak wants to look at
+it every day. Paintings like that were more didactic than anything.
+
+I always wonder when is Adam's office.
+
+This series is so trinitarian.
+
+This season's intro seems more visceral than the other two. There are multiple
+clips that seem sensual. One, with lipstick, looks so much like a vulva. I think
+what it is is that it's mostly close ups of body parts. And body parts, when
+fractalized, always look sensual. Plus they literally have a sex clip.
+
+Whenever a scifi series starts veering more and more outlandishly, I start
+thinking of this old Outer Limits for Kids book I read as a kid. I believe I
+read nearly all of them and they all appear to be by John Peel. Several of them
+stick with me as profoundly good, but one was just terrible (this is by 12 year
+old standards). I believe it was The Lost. If memory serves, there was a brain
+washing infection or something, and the solution to deprogram the kids was to
+kiss them. It was profoundly dumb. But I will never forget reading a paragraph
+where the character is explaining what to do, a bit of exposition, if you will,
+and it just felt like a 10 year old playing make believe. It was dumb as hell
+and broke everything for me and it was literally the first book I didn't finish
+out of disgust. When a scifi series starts having bizarre exposition, and
+melodramatic dialog, I start to think back to that book, and it can be a
+turnoff. I don't know that we've reached that territory, in fact, I don't think
+we have, but I started thinking about it when Martha-2 started talking.
+
+Martha-2 is so much female Jonas it's symmetrical.
+
+There has to be some stylistic choice in Magnus-2's tats. A caduceus? What?
+
+> The caduceus is the staff carried by Hermes in Greek mythology and
+> consequently by Hermes Trismegistus in Greco-Egyptian mythology.
+
+Well there we go. Important to alchemy and European mysticism. (The emerald
+tablet is supposedly written by Hermes Trismegistus or something, I hate that
+cultish stuff).
+
+By the way, if you don't know, my dear imaginary reader, the caduceus is not
+supposed to be a medical symbol of medicine, and is mostly used as that in the
+US because we're morons. The Rod of Asclepius is the medical symbol, one snake
+entwining a staff. The caduceus is in fact a symbol of commerce and money.
+
+So is this the same time? Like, she just went laterally, not backward in time
+too. I think that's the case, but I'm not sure.
+
+Fascinating that the Nielsen kids are black haired now.
+
+Germans, saying creepy. Americanisms are so funny. We have the best words.
+
+Helge doesn't have an eye now.
+
+Missing eye cop is now missing an arm. It's like people's injuries are
+mandatory, just not what kind. I swear this school is backward too. It's weird.
+
+I dislike both Hannah and Katharina. I like Claudia and Charlotte a lot.
+
+These new transitions are stupid and distracting.
+
+### Episode 2
+#### Mon 20 Jul 2020 08:01:41 PM EDT
+Oh thank God, June 27, 2020, we're good, we made it.
+
+I swear to God Noah seems like a pedophile.
+
+Whenever I hear someone talk about creating a perfect world my hackles go up.
+
+Hell is empty and all the devils are here. The Tempest. I really need to read
+that.
+
+### Episode 5
+#### Thu 23 Jul 2020 04:56:44 PM EDT
+I don't really have that much to say in this season. I guess I didn't for Season
+2 either. Shame. Sorry. Imaginary audience.
+
+God, this episode was so fuckign hard. Elizabeth & Peter, Katharina & Helene,
+like, holy shit.
