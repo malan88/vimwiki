@@ -491,3 +491,84 @@ I don't really have that much to say in this season. I guess I didn't for Season
 
 God, this episode was so fuckign hard. Elizabeth & Peter, Katharina & Helene,
 like, holy shit.
+
+### Episode 8
+#### Sun 26 Jul 2020 08:30:34 AM EDT
+So I have not lived up to my promise. But this is the last episode and I have
+had some thoughts.
+
+First of all, they are masters of making you go from loathing a character to
+loving them, as evinced by Noah.
+
+Second, the Silja plot was surprising, as was the Hanno & Agnes origin. So, the
+incestuousness of the later characters is somewhat stunning. Also the
+circularity. Whoa boy I can't even untangle it in my head, I have to use a chart
+on Wikipedia.
+
+There is a deep duality in this show, acceptance and rejection of fate. Suicide
+or acceptance.
+
+There's an aspect I had on my tongue last night that I've forgotten.
+
+I really did come to hate Adam-Jonas. They never show him getting scarred, only
+Tall Scarred and Short Scarred. He started getting a bit rough in the 1880's,
+but it wasn't until he was scarred to hell that he became evil. Then truly evil.
+His murder of Hannah was a little stunning.
+
+Something I find fascinating is that we can think of each cycle as a real
+distinct period across time. They overlap. This isn't fantasy time travel, it's
+as close to a real physical time travel conception as possible. So it seems like
+the first few cycles, first hundred maybe, who knows, were wildly divergent. But
+as the cycles wore on a certain cold constancy to the logic of the cycles set
+in, resulting in the infinity loop between two worlds, which I suspect are
+actually one? Last night I got that sense anyway, in episode 7.
+
+BTW, to say that duality is wrong, and then say that there's always a third
+dimension, is like saying Trump is bad, and then saying you won't vote for
+Biden. No dumbass, duality is not wrong because there's not enough dimensions,
+it's because categorization is the primordial mistake. Categories are a human
+impulse to force order on chaos. I was *just* reading in Stamped from the
+Beginning something about a thinker who recognized that a species is really just
+a collection of individuals. Nominalism is the only metaphysical truth.
+
+I really want to know how the desertification of Winden happens.
+
+The obsession with facial scarring is fascinating. There's so much there to
+unravel. And the non-facial scars. They're distinct markers of events in each
+person's lives. Jonas' neck, Helge's ear, Martha's scar, Silja's scar, I don't
+understand where that came from yet, Mads' chin. They situate a person in time.
+
+Preservation and destruction, that's the duality I was looking for. Eva is
+preservation, Adam is destruction, and Tannhaus is creation.
+
+Where's the final divergence though? Claudia says this is the first time she has
+spoken to Adam about the origin world.
+
+If Infinity Man is Tronte's father, why is Tronte so damn good looking but
+Infinity Man is so damn ugly.
+
+Claudia reaffirms to me the functionally equivalent yet inevitability of
+history. I mean, the writers have no reason to believe this either, but we both
+seem to recognize this fundamental idea.
+
+Adam redemption arc begins now?
+
+Ahh, it's Newton. What we know is a drop, what we don't know is an ocean.
+
+For whatever reason I keep hearing a crackle in my audio and I'm not sure if
+it's my speakers or the show.
+
+I still believe that that bunker is an echo of the crimes the Germans committed
+in WWII. It is the ur-moment to modern Germanness.
+
+Assassin's Creed vibes here in the path to the Origin World.
+
+I don't know man. It was one of those series for which there is no proper
+ending. I mean, they made it, but the problem with stuff like this is that it
+must end with no significant changes. That is to say, as if the entire story was
+inconsequential. It erased itself.
+
+All the characters left were my least favorite characters. The disappearance of
+Martha and Jonas is the most depressing.
+
+It was a good series.
