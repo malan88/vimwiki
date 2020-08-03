@@ -17,3 +17,5 @@
 - [react](react.md)
 - [unicode](unicode.md)
 - [w2s](w2s.md)
+
+- [cocktails](cocktails.md)
