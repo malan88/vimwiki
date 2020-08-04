@@ -94,3 +94,16 @@ also get you hammered, but tastes even less boozy.
 
 1. Shake it all
 2. Double strain in collins glass over ice, garnish with mint sprig
+
+## Kapok Tree Planter's Punch
+- 2 oz. Orange Juice
+- 2 oz. Pineapple Juice
+- 2 oz. Lime Juice
+- 1 1/4 oz. White Rum
+- 1 1/2 oz. Amber Rum
+- 1/2 oz. Egg White 
+
+1. Shake
+2. Strain into iced collins glass
+3. Top with 1/4 oz. grenadine and 1 oz. dark Jamaican rum, garnish with fruit
+   and cherry
