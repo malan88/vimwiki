@@ -107,3 +107,23 @@ also get you hammered, but tastes even less boozy.
 2. Strain into iced collins glass
 3. Top with 1/4 oz. grenadine and 1 oz. dark Jamaican rum, garnish with fruit
    and cherry
+
+## Piña Colada Clarified Milk Punch 
+### Makes about 4 servings
+
+- 8oz (240ml) aged rum
+- 4.5oz (135ml) coconut water
+- 2oz (60ml) Allspice Dram
+- 0.5oz (15ml) simple syrup
+- 3oz (90ml) fresh pineapple juice, strained
+- 2oz (60ml) fresh lime juice, strained
+- 5oz (150ml) cold whole milk
+
+1. Add milk to a large glass bowl and set aside
+2. Mix remaining ingredients into a pitcher
+3. Slowly pour punch mixture into the milk and gently stir until it curdles
+4. Pour a few ounces through through a coffee filter or cheese cloth to create a base of curds to help with filtering
+5. Pour those first few ounces back over the top of the filter to ensure a clean product
+6. Pour remaining punch slowly into the filter, refilling as needed. Total filter time is around 3 hours
+7. Store in an airtight container in the refrigerator indefinitely
+8. Serve in a chilled rocks glass over ice
