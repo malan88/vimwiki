@@ -11,3 +11,5 @@
   .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' <container name>`
 - To remove an image (I mostly use for debugging purposes lol): `sudo docker rmi
   <imagename>`
+- To rebuild a docker-compose image when we're adding pip requirements: `sudo
+  docker-compose build --no-cache`
