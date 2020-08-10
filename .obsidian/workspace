@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "45caf9b273982176",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0bf0a8d8a2934e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "reviews/bladerunner.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa7d393aee6f1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f4398d40f517ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e5f84141375a99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27be6e055a5c36d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c56c311ae739456",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c21b2bde7a7ca1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6266d7eecc778dd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "reviews/bladerunner.md",
+    "reviews/reviews.md",
+    "index.md",
+    "notes/notes.md",
+    "notes/tech.md"
+  ]
+}

@@ -1,21 +1,7 @@
 # notes
 
-- [Baudrillard](Baudrillard.md)
-- [ajax](ajax.md)
-- [docker](docker.md)
-- [dynamodb](dynamodb.md)
-- [e2guardian](e2guardian.md)
-- [gatsby](gatsby.md)
-- [htmlentities](htmlentities.md)
-- [ideas](ideas.md)
-- [lambda](lambda.md)
-- [languages](languages.md)
-- [ml](ml.md)
-- [notational_velocity](notational_velocity.md)
-- [pandas](pandas.md)
+- [tech](tech.md)
+- [humanities](humanities.md)
 - [pourover](pourover.md)
-- [react](react.md)
-- [unicode](unicode.md)
 - [w2s](w2s.md)
-
 - [cocktails](cocktails.md)
