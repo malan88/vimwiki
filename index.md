@@ -1,7 +1,7 @@
   - [books](books.md)
-  - [notes](notes/index.md)
-  - [passages](passages/index.md)
-  - [reviews](reviews/index.md)
+  - [notes](notes/notes.md)
+  - [passages](passages/passages.md)
+  - [reviews](reviews/reviews.md)
  
 ---
 
