@@ -1,7 +1,9 @@
-# notes
+# Wiki Index
 
-- [tech](tech.md)
-- [humanities](humanities.md)
-- [pourover](pourover.md)
-- [w2s](w2s.md)
-- [cocktails](cocktails.md)
+[tech](tech.md)
+
+[humanities](humanities.md)
+
+[gastro](gastro.md)
+
+[general](general.md)

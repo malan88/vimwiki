@@ -1,4 +1,3 @@
 # humanities
-- [Baudrillard](Baudrillard.md)
-- [ideas](ideas.md)
-- [languages](languages.md)
+- [Baudrillard](humanities/Baudrillard.md)
+- [ideas](humanities/ideas.md)

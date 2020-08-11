@@ -1,13 +1,27 @@
 # Tech notes
-- [ajax](ajax.md)
-- [docker](docker.md)
-- [dynamodb](dynamodb.md)
-- [gatsby](gatsby.md)
-- [htmlentities](htmlentities.md)
-- [lambda](lambda.md)
-- [ml](ml.md)
-- [pandas](pandas.md)
-- [react](react.md)
-- [e2guardian](e2guardian.md)
-- [notational_velocity](notational_velocity.md)
-- [unicode](unicode.md)
+
+[ajax](tech/ajax.md)
+
+[docker](tech/docker.md)
+
+[dynamodb](tech/dynamodb.md)
+
+[gatsby](tech/gatsby.md)
+
+[htmlentities](tech/htmlentities.md)
+
+[lambda](tech/lambda.md)
+
+[languages](tech/languages.md)
+
+[ml](tech/ml.md)
+
+[pandas](tech/pandas.md)
+
+[react](tech/react.md)
+
+[e2guardian](tech/e2guardian.md)
+
+[notational_velocity](tech/notational_velocity.md)
+
+[unicode](tech/unicode.md)
