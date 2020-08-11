@@ -110,6 +110,7 @@ also get you hammered, but tastes even less boozy.
 
 ## Piña Colada Clarified Milk Punch 
 ### Makes about 4 servings
+[From Cocktail Chemistry](https://youtu.be/ZSBzzPvLk6c)
 
 - 8oz (240ml) aged rum
 - 4.5oz (135ml) coconut water
@@ -122,8 +123,30 @@ also get you hammered, but tastes even less boozy.
 1. Add milk to a large glass bowl and set aside
 2. Mix remaining ingredients into a pitcher
 3. Slowly pour punch mixture into the milk and gently stir until it curdles
-4. Pour a few ounces through through a coffee filter or cheese cloth to create a base of curds to help with filtering
-5. Pour those first few ounces back over the top of the filter to ensure a clean product
-6. Pour remaining punch slowly into the filter, refilling as needed. Total filter time is around 3 hours
-7. Store in an airtight container in the refrigerator indefinitely
-8. Serve in a chilled rocks glass over ice
+4. Let it separate in the fridge, hopefully for a few hours. Don't have an exact
+   time
+5. Use a cheese cloth to get an initial strain.
+6. Use a v60 to strain through.
+7. Pour some through, capture with a bowl, and pour the initial back through. An
+   initial layer of curds helps with the straining, so you want to capture the
+   initial few ounces to refilter through their own curds.
+8. This takes forever. Best strategy: pour a ton in, up close to the top of the
+   V60. It goes faster when the V60 is fuller because of pressure. So keep it
+   topped while you still have some. Resist the urge to squeeze the filter, you
+   will pop it and recontaminate the filtered stuff.
+9. Store in an airtight container in the refrigerator indefinitely
+10. Serve in a chilled rocks glass over ice
+
+## Doctor Funk
+From Smuggler's Cove
+
+- 1/2 oz. fresh lemon juice
+- 1/4 oz. grenadine
+- 1/2 oz. fresh lime juice
+- 1/2 oz. demerara simple syrup
+- 1/4 oz. absinthe
+- 2 1/4 oz. black pot still rum
+- 1 oz. seltzer
+
+1. Shake in crushed ice with a few agitator cubes. (Flash blend if you can).
+2. Pour straight into the rocks glass.
