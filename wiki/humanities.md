@@ -1,3 +1,5 @@
-# humanities
-- [Baudrillard](humanities/Baudrillard.md)
-- [ideas](humanities/ideas.md)
+# Humanities
+
+[Baudrillard](humanities/Baudrillard.md)
+
+[ideas](humanities/ideas.md)
