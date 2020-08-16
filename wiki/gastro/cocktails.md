@@ -150,3 +150,31 @@ From Smuggler's Cove
 
 1. Shake in crushed ice with a few agitator cubes. (Flash blend if you can).
 2. Pour straight into the rocks glass.
+
+## Eau de Lavender
+
+- 1 1/2 oz Tequila
+- 3/4 oz Fresh lemon juice
+- 3/4 oz Honey syrup*
+- 1 Egg white
+- 1 dash Scrappy's lavender bitters
+- Garnish: Lavender sprig
+
+1. Shake on ice sans egg white.
+2. Strain without ice back into shaker.
+3. Add egg white, dry shake (this is called a reverse dry shake).
+4. Strain into chilled coupe.
+
+## Johnny Silverhand
+
+- 1 1/2 oz. Tequila
+- 1/2 oz. Mezcal
+- 1 barspoon agave nectar
+- 2 dashes Angostura
+- Garnish: Flamed orange peel
+- Garnish: Tajín rimmer
+
+1. Rim an old fashioned glass with lime juice and Tajín.
+2. Mix all ingredients in a mixing glass with ice.
+3. Pour over one large ice cube in the rimmed glass.
+4. Flame an orange peel over the glass. Serve as garnish.
