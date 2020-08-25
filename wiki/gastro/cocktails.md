@@ -1,4 +1,22 @@
-# Cocktail recipes worth saving
+# Michael's Cocktail Wiki
+
+Cocktail Codex breaks down all cocktails into 6 base cocktails everything else
+is a riff on. I'm going to follow a similar strategy here.
+
+The resources are pretty essential to making some of the drinks.
+
+My preferred variants will be bolded.
+
+N.B. One barspoon is 1/8 oz. One teaspoon is 1/6 oz.
+
+## Resources
+[Techniques](techniques.md)
+
+[Syrups](syrups.md)
+
+
+## Cocktail portals
+[Old Fashioned style cocktails](old_fashioned.md)
 
 ## Bern's Banana Daiquiri
 
@@ -164,17 +182,3 @@ From Smuggler's Cove
 2. Strain without ice back into shaker.
 3. Add egg white, dry shake (this is called a reverse dry shake).
 4. Strain into chilled coupe.
-
-## Johnny Silverhand
-
-- 1 1/2 oz. Tequila
-- 1/2 oz. Mezcal
-- 1 barspoon agave nectar
-- 2 dashes Angostura
-- Garnish: Flamed orange peel
-- Garnish: Tajín rimmer
-
-1. Rim an old fashioned glass with lime juice and Tajín.
-2. Mix all ingredients in a mixing glass with ice.
-3. Pour over one large ice cube in the rimmed glass.
-4. Flame an orange peel over the glass. Serve as garnish.
