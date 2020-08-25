@@ -42,7 +42,7 @@ N.B. One barspoon is 1/8 oz. One teaspoon is 1/6 oz.
 ## Cocktail portals
 Cocktail Codex breaks down all cocktails into 6 base cocktails everything else
 is a riff on. I'm going to follow a similar strategy here. Each link below
-consists of (a) the best rendition I've found of the base cocktail, and a lot of
+consists of the best rendition I've found of the base cocktail and a lot of
 variations.
 
 Some of these will be stubs. I created them initially as a framework to which I
