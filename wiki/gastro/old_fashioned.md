@@ -1,14 +1,13 @@
 # Old Fashioned Riffs
 
-Per Cocktail Codex:
-
-> The defining traits of the Old-Fashioned and its extended family of cocktails:
->
 > An Old-Fashioned is spirit driven.
 >
 > An Old-Fashioned is balanced by a small amount of sweetness.
 >
 > An Old-Fashioned is seasoned with bittewrs and a garnish.
+
+***— Cocktail Codex***
+
 
 ## Cocktail Codex Old Fashioned
 
@@ -31,17 +30,18 @@ under-diluted. Keep in mind it will be over ice.***
 ***Variant: sub Bitter Truth Jerry Thomas' Own Decater bitters for the
 Angostura.***
 
+
 ## Death & Co. Elder Fashioned
 Phil Ward, 2007
 
 - 2 oz. Plymouth Gin
 - 0.5 oz. St. Germain
-- 2 dashes House Orange Bitters (equal parts Fee Brothers West Indian orange,
-  Regans' orange, and Angostura orange)
+- 2 dashes D&C House Orange Bitters (see [syrups](syrups.md))
 - Garnish: 1 grapefruit twist
 
 Stir all ingredients over ice, serve in double rocks glass over a large ice
 cube. (I prefer this up)
+
 
 ## Lavender Elder Fashioned
 
@@ -52,6 +52,7 @@ cube. (I prefer this up)
 - Garnish: 1 grapefruit twist
 
 Stir over ice, serve up in a frozen coupe or Nick & Nora.
+
 
 ## Death & Co. Oaxaca Old Fashioned
 Phil Ward, 2008
@@ -70,6 +71,7 @@ glass, then drop it in.
 ***Variant (Johnny Silverhand from Cyberpunk 2077): add a shot of Pacifico or
 some other cerveza.***
 
+
 ## Chrysanthemum
 
 > A low-proof Old-Fashioned that doesn't contain a base spirit, sugar-based
@@ -86,3 +88,21 @@ some other cerveza.***
 
 Stir over ice, serve up in a chilled coupe. Express the orange peel and rub the
 rim with it. Drop it in the glass.
+
+
+## El Presidente
+I really wasn't sure how to classify this, but it looks a lot like an Old
+Fashioned with a dual spirit, curaçao as the bitters, and grenadine as the
+sweetener.
+
+- 1.5 oz. rum (Havana Club!)
+- 1.5 oz. Lillet Blanc
+- .25 oz. curaçao
+- Barspoon of grenadine (use homemade!)
+- Garnish: orange twist.
+
+Stir in mixing glass, strain into coupe, garnish with orange
+
+
+
+

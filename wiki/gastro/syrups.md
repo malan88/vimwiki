@@ -1,4 +1,6 @@
 # Syrups
+***N.B. Sugars are very different. If I call for one type of sugar, acquire that
+kind of sugar. They taste very different.***
 
 ## Demerara Gum Syrup (Death & Co. from Cocktail Codex)
 This syrup has completely changed the way I view syrups. I use it liberally,
@@ -17,7 +19,7 @@ with anything that calls for Demerara syrup.
 > Old-Fashioned, a gum syrup allows us to add more body to a cocktail without
 > making it too sweet.
 
-- 300g (10 oz.) demerara sugar ()
+- 300g (10 oz.) demerara sugar
 - 150g (5 oz.) filtered water
 - 18g (0.6 oz.) gum arabic
 
@@ -34,20 +36,112 @@ for 2 hours.
 Throw it in an ice bath and transfer to a bottle. Per Cocktail Codex, keep
 refrigerated up to 2 weeks. That sounds silly to me.
 
+
 ## Simple Syrup
+Almost everyone just cooks 1:1 sugar to water. You could easily not cook it,
+though. The sugar will incorporate if you just stir a ton.
+
 
 ## Gomme Syrup
+I basically just followed [this recipe from Greg at How to
+Drink](https://www.youtube.com/watch?v=ZdvUSn9ak-0) but used the sous-vide
+technique for Demerara Gum Syrup instead of cooking it. I have been
+experimenting with using it as a substitute for Simple Syrup.
+
 
 ## Pineapple Gum Syrup
+> Because of the high pectin levels in pineapple juce, shaken cocktails that
+> contain it have a beautiful frothy head, much like that on a cocktail that
+> contains egg white. But pineapple juice quickly separates out from the rest of
+> a drink, and it can spoil in fairly short order. To combat both of these
+> issues, we often incorporate fresh pineapple juice in the form of this syrup,
+> which includes a bit of citric acid, which gives the syrup more sharpness and
+> clarity, cuts through the sweetness of the sugar, and brightens the natural
+> pineapple flavor. As we were developing this syrup, we found that we wanted to
+> use it not just in shaken cocktails, but also stirred. So, as in our Demerara
+> Gum Syrup, we add a bit of gum arabic, which has the benefit of keeping the
+> sugar and pineapple juice in solution. As the ingredients are heated in the
+> immersion circulator, the gum arabic dissolves and makes the liquid
+> translucent, and the pineapple's pulp and juice break down into a homogenous
+> liquid syrup without losing the fruit's bright, tropical flavor.
+
+***—Cocktail Codex***
+
+I have made this, and slightly experimented with it, but not enough. I used
+older pineapple juice so I want to try making it with fresher juice. I haven't
+gotten a good use for it. Yet. It tasted alright as a sub for the demerara syrup
+in the SC Planter's Punch.
+
+- 250g (9 oz.) unbleached cane sugar
+- 15g (1/2 oz.) gum arabic
+- 1.5g citric acid (I try to convert these to oz. but this is so tiny I used a
+  jewelry scale).
+- 250g (9 oz.) fresh pineapple juice
+
+Literally just follow the same method as in Demerara Gum Syrup. Combine dry
+ingredients in a blender, slowly add the pineapple juice, transfer to plastic
+bag, 145° in an immersion circulator tub, ice bath.
+
 
 ## Cinnammon Syrup
+I made this with a reduction method and would like to try again with an
+immersion circulator. Will update when I do.
 
-## Don's Mix
+
+## Donn's Mix
+Literally just 2:1 grapefruit juice to cinammon syrup. 
+
 
 ## Honey Syrup
+Mix 3:1 honey to water by volume. Whisk it until incorporated.
+
+Avoid clover honey. It tends to dominate. A nice floral honey works best.
+
 
 ## Cane Sugar Syrup
+Make it the same way as simple, 2:1 ratio cane sugar to water.
+
 
 ## Death & Co. House Grenadine
+This one is supposed to be brighter. To quote Cocktail Codex:
+
+> Many bars make grenadine by reducing pomegranate juice and adding other
+> flavorings. The result is a syrup that's murky and dense and, to us, tastes
+> nothing like the grenadine we remember from childhood. Sure, that neon-red
+> stuff in our Shirley Temple was made with high-fructose corn syrup, but it was
+> pretty and we loved it. We wanted to develop a recipe for grenadine that uses
+> high-quality ingredients while also honoring our memories of the stuff, and
+> eventually came up with this simple, clean version that's incredibly simple to
+> make.
+
+- 250g POM Wonderful pomegranate juice
+- 250g unbleached cane sugar
+- 1.85g powdered malic acid
+- 1.25g powdered citric acid
+- 0.15g Terra Spice orange extract
+ 
+Just blend it all in a blender until it's fully incorporated.
+
 
 ## Classic Grenadine
+Combine 1:1 pomegranate and sugar in a sauce pan. Bring it to a boil wall
+stirring with a whisk. Keep going until it seems fully incorporated. Put a lid
+on the pan and take it off the heat. Let it sit for a long time, it has too cool
+off. Then transfer it to a bottle.
+
+***N.B. I have only just begun experimenting with grenadine. I'd like to try
+making a this recipe with a bit of gum arabic and using the immersion
+circulator. That may be overkill on the syrupiness though, because this
+reduction grenadine is already pretty think. Will be updating this after I
+experiment more and try D&C's house grenadine in more drinks.***
+
+
+## Smuggler's Cove Mai Tai Rich Simple Syrup
+- 2 cups water
+- 4 cups demerara sugar
+- 1/2 teaspoon vanilla extract
+- 1/4 teaspoon salt
+
+Bring the water to a boil in a saucepan. Add the demerara sugar and whisk until
+fully incorporated (about 1 minute). Remove from heat and let cool. Add the
+vanilla extract and salt and stir to combine. Pour into a bottle.
