@@ -20,15 +20,13 @@ judgement calls will be made.
 
 ## Bijou
 
+- 1oz (30ml) Gin
+- 1oz (30ml) Sweet Vermouth
+- .75oz (22.5ml) Green Chartreuse
+- 1 Dash Feegans Orange Bitters (50/50 Fees and Regans)
+- Garnish: Luxardo Cherry
 
-## Tailspin
-From Death & Co. book
-
-- Campari
-- 1.5 oz. Beefeater London Dry Gin (sub any London Dry)
-- 1 oz. Carpano Antica Formula Vermouth (sub any sweet vermouth)
-- 1 oz. Green Chartreuse
-- 1 dash House Orange Bitters
+Stir, serve up.
 
 
 ## Gordon's Bijou
@@ -42,3 +40,27 @@ is much more a Tailspin.
 
 Stir in mixing glass, strain into rocks glass over ice, garnish with orange
 twist.
+
+
+## Tailspin
+From Death & Co. book
+
+- Campari
+- 1.5 oz. Beefeater London Dry Gin (sub any London Dry)
+- 1 oz. Carpano Antica Formula Vermouth (sub any sweet vermouth)
+- 1 oz. Green Chartreuse
+- 1 dash House Orange Bitters
+- Garnish: lemon twist
+
+Rinse a coupe with Campari and dump. Stir everything over ice, then strain into
+the coupe. Garnish, serve.
+
+
+## Poet's Dream:
+
+- 1 oz Gin (Beefeater)
+- 1 oz Dry Vermouth (Dolin)
+- 1 oz Benedictine
+- Garnish: lemon peel
+
+Stir, serve up, chilled coupe.
