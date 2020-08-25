@@ -69,3 +69,16 @@ Shake, double strain, serve up.
 - Garnish: Lavender sprig
 
 Reverse dry shake, strain into chilled coupe.
+
+
+## French 75
+From Cocktail Codex
+
+- 1 oz. Plymouth
+- 1/2 oz. fresh lemon juice
+- 1/2 oz. simple syrup
+- 4 oz. dry sparkling wine
+- Garnish: 1 lemon twist
+
+Shake everything but the wine, strain into a chilled flute. Pour in the wine,
+stir with a barspoon, express the twist and drop it in.

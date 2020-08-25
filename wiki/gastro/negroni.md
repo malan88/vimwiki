@@ -57,6 +57,7 @@ the coupe. Garnish, serve.
 
 
 ## Poet's Dream:
+Cocktail Codex serves this more like a [Martini](martini.md)
 
 - 1 oz Gin (Beefeater)
 - 1 oz Dry Vermouth (Dolin)

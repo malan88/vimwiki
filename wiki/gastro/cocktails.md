@@ -45,6 +45,10 @@ is a riff on. I'm going to follow a similar strategy here. Each link below
 consists of the best rendition I've found of the base cocktail and a lot of
 variations.
 
+Occasionally a variation from Cocktail Codex in particular don't fit with the
+original recipe enough to fit in the true template. An example is their Poet's
+Dream, which is a Negroni variation. The CC Poet's Dream is a Martini.
+
 Some of these will be stubs. I created them initially as a framework to which I
 can keep adding on.
 
