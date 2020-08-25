@@ -12,15 +12,21 @@ N.B. One barspoon is 1/8 oz. One teaspoon is 1/6 oz.
 
 ## Internet Resources
 ### YouTubers
-- [Cocktail Chemistry](https://www.youtube.com/channel/UC-o0CfpOyFJOfyWKtqS1hZQ)
-- [How to Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ)
-- [Uncle Pete's Cocktail Shop](https://www.youtube.com/channel/UC_zC2hf2HmYJIu7acB1MeSw)
-- [The Educated Barfly](https://www.youtube.com/channel/UCu9ArHUJZadlhwt3Jt0tqgA)
-- [Cocktail time with Kevin Kos](https://www.youtube.com/channel/UCEiui9T4ZYx8K8nuZ5YFSTw)
+[Cocktail Chemistry](https://www.youtube.com/channel/UC-o0CfpOyFJOfyWKtqS1hZQ)
+
+[How to Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ)
+
+[Uncle Pete's Cocktail Shop](https://www.youtube.com/channel/UC_zC2hf2HmYJIu7acB1MeSw)
+
+[The Educated Barfly](https://www.youtube.com/channel/UCu9ArHUJZadlhwt3Jt0tqgA)
+
+[Cocktail time with Kevin Kos](https://www.youtube.com/channel/UCEiui9T4ZYx8K8nuZ5YFSTw)
+
 
 ### Other Sites
-- [Punch's Recipes](https://punchdrink.com/recipes/)
-- [Liquor.com's Recipes](https://www.liquor.com/cocktail-and-other-recipes-4779343)
+[Punch's Recipes](https://punchdrink.com/recipes/)
+
+[Liquor.com's Recipes](https://www.liquor.com/cocktail-and-other-recipes-4779343)
 
 
 ## My Resources
